@@ -22,8 +22,8 @@ Thanks for your help!
 
 ## FAQ
 
-- [In my country multiple cities can have the same postal code?](###In-my-country-multiple-cities-can-have-the-same-postal-code)
-- [When we group together multiple cities, which location should we keep?](###When-we-group-together-multiple-cities-which-location-should-we-keep?)
+- [In my country multiple cities can have the same postal code?](#in-my-country-multiple-cities-can-have-the-same-postal-code)
+- [When we group together multiple cities, which location should we keep?](#when-we-group-together-multiple-cities-which-location-should-we-keep)
 
 ### In my country multiple cities can have the same postal code?
 
