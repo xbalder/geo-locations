@@ -9,7 +9,7 @@ Thanks for your help!
 
 ## Datasources
 - Some good sources can be found at: https://datahub.io/
-  - Country codes: https://datahub.io/core/country-list
+  - Country codes: https://datahub.io/core/country-codes
   - Language codes: https://datahub.io/core/language-codes
   - Airport codes: https://datahub.io/core/airport-codes
   
