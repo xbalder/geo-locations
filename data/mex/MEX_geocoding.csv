@@ -1,4 +1,5 @@
 country_code,postal_code,town,region,latitude,longitude
+MEX,20000,Aguascalientes,Aguascalientes,21.8734,-102.2806
 MEX,20010,Aguascalientes,Aguascalientes,21.9644,-102.3192
 MEX,20016,Aguascalientes,Aguascalientes,21.888,-102.3074
 MEX,20018,Aguascalientes,Aguascalientes,21.9644,-102.3192
@@ -5044,610 +5045,610 @@ MEX,33660,Valle de Zaragoza,Chihuahua,27.4331,-105.8886
 MEX,33663,Valle de Zaragoza,Chihuahua,27.5271,-105.7609
 MEX,33665,Valle de Zaragoza,Chihuahua,27.4331,-105.8886
 MEX,33669,Valle de Zaragoza,Chihuahua,27.3391,-106.0163
-MEX,2000,Azcapotzalco,"Ciudad de México, Distrito Federal",19.4815,-99.1862
-MEX,2008,Azcapotzalco,"Ciudad de México, Distrito Federal",19.4815,-99.1862
-MEX,2010,Azcapotzalco,"Ciudad de México, Distrito Federal",19.4407,-99.1496
-MEX,2020,Azcapotzalco,"Ciudad de México, Distrito Federal",19.4852,-99.1796
-MEX,2040,Azcapotzalco,"Ciudad de México, Distrito Federal",19.4816,-99.1799
-MEX,2050,Azcapotzalco,"Ciudad de México, Distrito Federal",19.4781,-99.1774
-MEX,2060,Azcapotzalco,"Ciudad de México, Distrito Federal",19.474,-99.1778
-MEX,2070,Azcapotzalco,"Ciudad de México, Distrito Federal",19.478,-99.1863
-MEX,2080,Azcapotzalco,"Ciudad de México, Distrito Federal",19.468,-99.1801
-MEX,2090,Azcapotzalco,"Ciudad de México, Distrito Federal",19.4614,-99.1849
-MEX,2099,Azcapotzalco,"Ciudad de México, Distrito Federal",19.4673,-99.1893
-MEX,2100,Azcapotzalco,"Ciudad de México, Distrito Federal",19.5086,-99.2042
-MEX,2109,Azcapotzalco,"Ciudad de México, Distrito Federal",19.5086,-99.2042
-MEX,2110,Azcapotzalco,"Ciudad de México, Distrito Federal",19.4966,-99.1864
-MEX,2120,Azcapotzalco,"Ciudad de México, Distrito Federal",19.5009,-99.1941
-MEX,2125,Azcapotzalco,"Ciudad de México, Distrito Federal",19.5009,-99.1941
-MEX,2128,Azcapotzalco,"Ciudad de México, Distrito Federal",19.5016,-99.1894
-MEX,2129,Azcapotzalco,"Ciudad de México, Distrito Federal",19.4982,-99.1876
-MEX,2130,Azcapotzalco,"Ciudad de México, Distrito Federal",19.4993,-99.2005
-MEX,2140,Azcapotzalco,"Ciudad de México, Distrito Federal",19.495,-99.1909
-MEX,2150,Azcapotzalco,"Ciudad de México, Distrito Federal",19.4945,-99.196
-MEX,2160,Azcapotzalco,"Ciudad de México, Distrito Federal",19.4865,-99.191
-MEX,2169,Azcapotzalco,"Ciudad de México, Distrito Federal",19.4899,-99.1924
-MEX,2200,Azcapotzalco,"Ciudad de México, Distrito Federal",19.494,-99.1876
-MEX,2230,Azcapotzalco,"Ciudad de México, Distrito Federal",19.4999,-99.1797
-MEX,2240,Azcapotzalco,"Ciudad de México, Distrito Federal",19.5011,-99.1612
-MEX,2250,Azcapotzalco,"Ciudad de México, Distrito Federal",19.4853,-99.1821
-MEX,2260,Azcapotzalco,"Ciudad de México, Distrito Federal",19.5036,-99.1692
-MEX,2300,Azcapotzalco,"Ciudad de México, Distrito Federal",19.4853,-99.1821
-MEX,2310,Azcapotzalco,"Ciudad de México, Distrito Federal",19.5055,-99.1753
-MEX,2320,Azcapotzalco,"Ciudad de México, Distrito Federal",19.4901,-99.154
-MEX,2330,Azcapotzalco,"Ciudad de México, Distrito Federal",19.489,-99.1595
-MEX,2340,Azcapotzalco,"Ciudad de México, Distrito Federal",19.4875,-99.155
-MEX,2350,Azcapotzalco,"Ciudad de México, Distrito Federal",19.4824,-99.1647
-MEX,2360,Azcapotzalco,"Ciudad de México, Distrito Federal",19.4822,-99.1467
-MEX,2400,Azcapotzalco,"Ciudad de México, Distrito Federal",19.4897,-99.2046
-MEX,2409,Azcapotzalco,"Ciudad de México, Distrito Federal",19.487,-99.2059
-MEX,2410,Azcapotzalco,"Ciudad de México, Distrito Federal",19.5034,-99.2095
-MEX,2419,Azcapotzalco,"Ciudad de México, Distrito Federal",19.5034,-99.2095
-MEX,2420,Azcapotzalco,"Ciudad de México, Distrito Federal",19.4776,-99.1838
-MEX,2430,Azcapotzalco,"Ciudad de México, Distrito Federal",19.4955,-99.202
-MEX,2440,Azcapotzalco,"Ciudad de México, Distrito Federal",19.4853,-99.1821
-MEX,2450,Azcapotzalco,"Ciudad de México, Distrito Federal",19.4882,-99.1898
-MEX,2459,Azcapotzalco,"Ciudad de México, Distrito Federal",19.4889,-99.1982
-MEX,2460,Azcapotzalco,"Ciudad de México, Distrito Federal",19.4864,-99.1937
-MEX,2470,Azcapotzalco,"Ciudad de México, Distrito Federal",19.483,-99.1953
-MEX,2479,Azcapotzalco,"Ciudad de México, Distrito Federal",19.4853,-99.1821
-MEX,2480,Azcapotzalco,"Ciudad de México, Distrito Federal",19.4853,-99.2001
-MEX,2490,Azcapotzalco,"Ciudad de México, Distrito Federal",19.4831,-99.1917
-MEX,2500,Azcapotzalco,"Ciudad de México, Distrito Federal",19.4829,-99.1728
-MEX,2510,Azcapotzalco,"Ciudad de México, Distrito Federal",19.4858,-99.1733
-MEX,2519,Azcapotzalco,"Ciudad de México, Distrito Federal",19.486,-99.1735
-MEX,2520,Azcapotzalco,"Ciudad de México, Distrito Federal",19.4836,-99.1693
-MEX,2525,Azcapotzalco,"Ciudad de México, Distrito Federal",19.4836,-99.1693
-MEX,2530,Azcapotzalco,"Ciudad de México, Distrito Federal",19.4733,-99.1747
-MEX,2540,Azcapotzalco,"Ciudad de México, Distrito Federal",19.4829,-99.1728
-MEX,2600,Azcapotzalco,"Ciudad de México, Distrito Federal",19.4754,-99.1537
-MEX,2630,Azcapotzalco,"Ciudad de México, Distrito Federal",19.4826,-99.1532
-MEX,2640,Azcapotzalco,"Ciudad de México, Distrito Federal",19.4798,-99.1563
-MEX,2650,Azcapotzalco,"Ciudad de México, Distrito Federal",19.4771,-99.1578
-MEX,2660,Azcapotzalco,"Ciudad de México, Distrito Federal",19.4772,-99.1607
-MEX,2670,Azcapotzalco,"Ciudad de México, Distrito Federal",19.4731,-99.1624
-MEX,2680,Azcapotzalco,"Ciudad de México, Distrito Federal",19.4744,-99.1607
-MEX,2700,Azcapotzalco,"Ciudad de México, Distrito Federal",19.5092,-99.2056
-MEX,2710,Azcapotzalco,"Ciudad de México, Distrito Federal",19.4839,-99.2098
-MEX,2718,Azcapotzalco,"Ciudad de México, Distrito Federal",19.4855,-99.2166
-MEX,2719,Azcapotzalco,"Ciudad de México, Distrito Federal",19.478,-99.2164
-MEX,2720,Azcapotzalco,"Ciudad de México, Distrito Federal",19.4837,-99.1912
-MEX,2729,Azcapotzalco,"Ciudad de México, Distrito Federal",19.481,-99.1992
-MEX,2730,Azcapotzalco,"Ciudad de México, Distrito Federal",19.48,-99.1913
-MEX,2739,Azcapotzalco,"Ciudad de México, Distrito Federal",19.48,-99.1913
-MEX,2750,Azcapotzalco,"Ciudad de México, Distrito Federal",19.481,-99.1964
-MEX,2760,Azcapotzalco,"Ciudad de México, Distrito Federal",19.4786,-99.197
-MEX,2770,Azcapotzalco,"Ciudad de México, Distrito Federal",19.4739,-99.1922
-MEX,2780,Azcapotzalco,"Ciudad de México, Distrito Federal",19.4736,-99.1974
-MEX,2790,Azcapotzalco,"Ciudad de México, Distrito Federal",19.4756,-99.1948
-MEX,2800,Azcapotzalco,"Ciudad de México, Distrito Federal",19.4625,-99.1682
-MEX,2810,Azcapotzalco,"Ciudad de México, Distrito Federal",19.4676,-99.1633
-MEX,2830,Azcapotzalco,"Ciudad de México, Distrito Federal",19.4678,-99.1742
-MEX,2840,Azcapotzalco,"Ciudad de México, Distrito Federal",19.4635,-99.1747
-MEX,2850,Azcapotzalco,"Ciudad de México, Distrito Federal",19.462,-99.1634
-MEX,2860,Azcapotzalco,"Ciudad de México, Distrito Federal",19.462,-99.1634
-MEX,2870,Azcapotzalco,"Ciudad de México, Distrito Federal",19.4596,-99.1738
-MEX,2900,Azcapotzalco,"Ciudad de México, Distrito Federal",19.4727,-99.156
-MEX,2910,Azcapotzalco,"Ciudad de México, Distrito Federal",19.4705,-99.1499
-MEX,2920,Azcapotzalco,"Ciudad de México, Distrito Federal",19.4689,-99.1509
-MEX,2930,Azcapotzalco,"Ciudad de México, Distrito Federal",19.4705,-99.1526
-MEX,2940,Azcapotzalco,"Ciudad de México, Distrito Federal",19.4707,-99.1464
-MEX,2950,Azcapotzalco,"Ciudad de México, Distrito Federal",19.4688,-99.1577
-MEX,2960,Azcapotzalco,"Ciudad de México, Distrito Federal",19.4684,-99.1466
-MEX,2970,Azcapotzalco,"Ciudad de México, Distrito Federal",19.4689,-99.1509
-MEX,2980,Azcapotzalco,"Ciudad de México, Distrito Federal",19.4665,-99.1512
-MEX,2990,Azcapotzalco,"Ciudad de México, Distrito Federal",19.4657,-99.1463
-MEX,4000,Coyoacán,"Ciudad de México, Distrito Federal",19.34,-99.1617
-MEX,4009,Coyoacán,"Ciudad de México, Distrito Federal",19.34,-99.1617
-MEX,4010,Coyoacán,"Ciudad de México, Distrito Federal",19.3175,-99.1327
-MEX,4020,Coyoacán,"Ciudad de México, Distrito Federal",19.3267,-99.1504
-MEX,4030,Coyoacán,"Ciudad de México, Distrito Federal",19.3175,-99.1327
-MEX,4040,Coyoacán,"Ciudad de México, Distrito Federal",19.3457,-99.1479
-MEX,4100,Coyoacán,"Ciudad de México, Distrito Federal",19.4206,-99.1815
-MEX,4110,Coyoacán,"Ciudad de México, Distrito Federal",19.3581,-99.1713
-MEX,4120,Coyoacán,"Ciudad de México, Distrito Federal",19.4049,-99.1711
-MEX,4129,Coyoacán,"Ciudad de México, Distrito Federal",19.4831,-99.1917
-MEX,4200,Coyoacán,"Ciudad de México, Distrito Federal",19.3459,-99.1346
-MEX,4210,Coyoacán,"Ciudad de México, Distrito Federal",19.3455,-99.1326
-MEX,4230,Coyoacán,"Ciudad de México, Distrito Federal",19.35,-99.15
-MEX,4239,Coyoacán,"Ciudad de México, Distrito Federal",19.35,-99.15
-MEX,4240,Coyoacán,"Ciudad de México, Distrito Federal",19.3474,-99.1287
-MEX,4250,Coyoacán,"Ciudad de México, Distrito Federal",19.3443,-99.1249
-MEX,4259,Coyoacán,"Ciudad de México, Distrito Federal",19.3443,-99.1249
-MEX,4260,Coyoacán,"Ciudad de México, Distrito Federal",19.3455,-99.1326
-MEX,4270,Coyoacán,"Ciudad de México, Distrito Federal",19.3455,-99.1326
-MEX,4280,Coyoacán,"Ciudad de México, Distrito Federal",19.3396,-99.1246
-MEX,4300,Coyoacán,"Ciudad de México, Distrito Federal",19.3198,-99.1622
-MEX,4307,Coyoacán,"Ciudad de México, Distrito Federal",19.3198,-99.1622
-MEX,4309,Coyoacán,"Ciudad de México, Distrito Federal",19.3198,-99.1622
-MEX,4310,Coyoacán,"Ciudad de México, Distrito Federal",19.343,-99.1743
-MEX,4317,Coyoacán,"Ciudad de México, Distrito Federal",19.342,-99.1797
-MEX,4318,Coyoacán,"Ciudad de México, Distrito Federal",19.342,-99.1797
-MEX,4319,Coyoacán,"Ciudad de México, Distrito Federal",19.3409,-99.185
-MEX,4320,Coyoacán,"Ciudad de México, Distrito Federal",19.341,-99.169
-MEX,4326,Coyoacán,"Ciudad de México, Distrito Federal",19.34,-99.1617
-MEX,4327,Coyoacán,"Ciudad de México, Distrito Federal",19.3407,-99.1672
-MEX,4330,Coyoacán,"Ciudad de México, Distrito Federal",19.3376,-99.1528
-MEX,4336,Coyoacán,"Ciudad de México, Distrito Federal",19.3378,-99.1523
-MEX,4337,Coyoacán,"Ciudad de México, Distrito Federal",19.3378,-99.1523
-MEX,4338,Coyoacán,"Ciudad de México, Distrito Federal",19.3355,-99.1516
-MEX,4340,Coyoacán,"Ciudad de México, Distrito Federal",19.339,-99.1867
-MEX,4350,Coyoacán,"Ciudad de México, Distrito Federal",19.3405,-99.1809
-MEX,4359,Coyoacán,"Ciudad de México, Distrito Federal",19.3405,-99.1809
-MEX,4360,Coyoacán,"Ciudad de México, Distrito Federal",19.3338,-99.1794
-MEX,4368,Coyoacán,"Ciudad de México, Distrito Federal",19.3321,-99.1753
-MEX,4369,Coyoacán,"Ciudad de México, Distrito Federal",19.3286,-99.1672
-MEX,4370,Coyoacán,"Ciudad de México, Distrito Federal",19.3376,-99.1448
-MEX,4380,Coyoacán,"Ciudad de México, Distrito Federal",19.4177,-99.1773
-MEX,4390,Coyoacán,"Ciudad de México, Distrito Federal",19.3258,-99.1575
-MEX,4400,Coyoacán,"Ciudad de México, Distrito Federal",19.3344,-99.1333
-MEX,4410,Coyoacán,"Ciudad de México, Distrito Federal",19.3326,-99.1415
-MEX,4420,Coyoacán,"Ciudad de México, Distrito Federal",19.3239,-99.1348
-MEX,4440,Coyoacán,"Ciudad de México, Distrito Federal",19.3239,-99.1348
-MEX,4450,Coyoacán,"Ciudad de México, Distrito Federal",19.3356,-99.1394
-MEX,4460,Coyoacán,"Ciudad de México, Distrito Federal",19.3288,-99.1347
-MEX,4470,Coyoacán,"Ciudad de México, Distrito Federal",19.3239,-99.1348
-MEX,4480,Coyoacán,"Ciudad de México, Distrito Federal",19.3277,-99.1218
-MEX,4489,Coyoacán,"Ciudad de México, Distrito Federal",19.3277,-99.1218
-MEX,4490,Coyoacán,"Ciudad de México, Distrito Federal",19.3239,-99.1348
-MEX,4500,Coyoacán,"Ciudad de México, Distrito Federal",19.3066,-99.1986
-MEX,4510,Coyoacán,"Ciudad de México, Distrito Federal",19.3231,-99.185
-MEX,4513,Coyoacán,"Ciudad de México, Distrito Federal",19.3231,-99.185
-MEX,4519,Coyoacán,"Ciudad de México, Distrito Federal",19.3231,-99.185
-MEX,4530,Coyoacán,"Ciudad de México, Distrito Federal",19.3003,-99.1959
-MEX,4535,Coyoacán,"Ciudad de México, Distrito Federal",19.3065,-99.1821
-MEX,4600,Coyoacán,"Ciudad de México, Distrito Federal",19.3036,-99.1726
-MEX,4610,Coyoacán,"Ciudad de México, Distrito Federal",19.3279,-99.1404
-MEX,4620,Coyoacán,"Ciudad de México, Distrito Federal",19.3148,-99.151
-MEX,4630,Coyoacán,"Ciudad de México, Distrito Federal",19.319,-99.15
-MEX,4640,Coyoacán,"Ciudad de México, Distrito Federal",19.3172,-99.1416
-MEX,4650,Coyoacán,"Ciudad de México, Distrito Federal",19.3156,-99.1431
-MEX,4660,Coyoacán,"Ciudad de México, Distrito Federal",19.3053,-99.1581
-MEX,4700,Coyoacán,"Ciudad de México, Distrito Federal",19.3079,-99.1735
-MEX,4710,Coyoacán,"Ciudad de México, Distrito Federal",19.3038,-99.1702
-MEX,4718,Coyoacán,"Ciudad de México, Distrito Federal",19.3051,-99.1734
-MEX,4719,Coyoacán,"Ciudad de México, Distrito Federal",19.3045,-99.1718
-MEX,4720,Coyoacán,"Ciudad de México, Distrito Federal",19.3087,-99.1752
-MEX,4729,Coyoacán,"Ciudad de México, Distrito Federal",19.3087,-99.1752
-MEX,4730,Coyoacán,"Ciudad de México, Distrito Federal",19.301,-99.1548
-MEX,4738,Coyoacán,"Ciudad de México, Distrito Federal",19.3022,-99.1577
-MEX,4739,Coyoacán,"Ciudad de México, Distrito Federal",19.3046,-99.1638
-MEX,4800,Coyoacán,"Ciudad de México, Distrito Federal",19.3216,-99.1347
-MEX,4810,Coyoacán,"Ciudad de México, Distrito Federal",19.3201,-99.1327
-MEX,4815,Coyoacán,"Ciudad de México, Distrito Federal",19.3267,-99.1504
-MEX,4830,Coyoacán,"Ciudad de México, Distrito Federal",19.3239,-99.1411
-MEX,4840,Coyoacán,"Ciudad de México, Distrito Federal",19.3455,-99.1345
-MEX,4843,Coyoacán,"Ciudad de México, Distrito Federal",19.3455,-99.1345
-MEX,4849,Coyoacán,"Ciudad de México, Distrito Federal",19.3455,-99.1345
-MEX,4850,Coyoacán,"Ciudad de México, Distrito Federal",19.3455,-99.1345
-MEX,4870,Coyoacán,"Ciudad de México, Distrito Federal",19.3164,-99.1348
-MEX,4890,Coyoacán,"Ciudad de México, Distrito Federal",19.3204,-99.1391
-MEX,4899,Coyoacán,"Ciudad de México, Distrito Federal",19.3113,-99.1307
-MEX,4908,Coyoacán,"Ciudad de México, Distrito Federal",19.3267,-99.1504
-MEX,4909,Coyoacán,"Ciudad de México, Distrito Federal",19.2112,-99.0508
-MEX,4910,Coyoacán,"Ciudad de México, Distrito Federal",19.3195,-99.1083
-MEX,4918,Coyoacán,"Ciudad de México, Distrito Federal",19.3195,-99.1083
-MEX,4919,Coyoacán,"Ciudad de México, Distrito Federal",19.3195,-99.1083
-MEX,4920,Coyoacán,"Ciudad de México, Distrito Federal",19.3092,-99.1212
-MEX,4929,Coyoacán,"Ciudad de México, Distrito Federal",19.3092,-99.1212
-MEX,4930,Coyoacán,"Ciudad de México, Distrito Federal",19.3267,-99.1504
-MEX,4938,Coyoacán,"Ciudad de México, Distrito Federal",19.3459,-99.1346
-MEX,4939,Coyoacán,"Ciudad de México, Distrito Federal",19.3459,-99.1346
-MEX,4940,Coyoacán,"Ciudad de México, Distrito Federal",19.3035,-99.1166
-MEX,4950,Coyoacán,"Ciudad de México, Distrito Federal",19.3267,-99.1504
-MEX,4960,Coyoacán,"Ciudad de México, Distrito Federal",19.3025,-99.1049
-MEX,4970,Coyoacán,"Ciudad de México, Distrito Federal",19.3026,-99.1119
-MEX,4980,Coyoacán,"Ciudad de México, Distrito Federal",19.3068,-99.1385
-MEX,5000,Cuajimalpa de Morelos,"Ciudad de México, Distrito Federal",19.3692,-99.2909
-MEX,5009,Cuajimalpa de Morelos,"Ciudad de México, Distrito Federal",19.3692,-99.2909
-MEX,5010,Cuajimalpa de Morelos,"Ciudad de México, Distrito Federal",19.3482,-99.3103
-MEX,5020,Cuajimalpa de Morelos,"Ciudad de México, Distrito Federal",19.3595,-99.3064
-MEX,5030,Cuajimalpa de Morelos,"Ciudad de México, Distrito Federal",19.3681,-99.3058
-MEX,5039,Cuajimalpa de Morelos,"Ciudad de México, Distrito Federal",19.3681,-99.3058
-MEX,5050,Cuajimalpa de Morelos,"Ciudad de México, Distrito Federal",19.3524,-99.3188
-MEX,5060,Cuajimalpa de Morelos,"Ciudad de México, Distrito Federal",19.3595,-99.3064
-MEX,5100,Cuajimalpa de Morelos,"Ciudad de México, Distrito Federal",19.3792,-99.2703
-MEX,5110,Cuajimalpa de Morelos,"Ciudad de México, Distrito Federal",19.3837,-99.2545
-MEX,5118,Cuajimalpa de Morelos,"Ciudad de México, Distrito Federal",19.3837,-99.2545
-MEX,5119,Cuajimalpa de Morelos,"Ciudad de México, Distrito Federal",19.3837,-99.2545
-MEX,5120,Cuajimalpa de Morelos,"Ciudad de México, Distrito Federal",19.3789,-99.2659
-MEX,5126,Cuajimalpa de Morelos,"Ciudad de México, Distrito Federal",19.3863,-99.2642
-MEX,5128,Cuajimalpa de Morelos,"Ciudad de México, Distrito Federal",19.3863,-99.2642
-MEX,5129,Cuajimalpa de Morelos,"Ciudad de México, Distrito Federal",19.3937,-99.2625
-MEX,5130,Cuajimalpa de Morelos,"Ciudad de México, Distrito Federal",19.3839,-99.2633
-MEX,5200,Cuajimalpa de Morelos,"Ciudad de México, Distrito Federal",19.3657,-99.2892
-MEX,5214,Cuajimalpa de Morelos,"Ciudad de México, Distrito Federal",19.3773,-99.282
-MEX,5219,Cuajimalpa de Morelos,"Ciudad de México, Distrito Federal",19.374,-99.2855
-MEX,5220,Cuajimalpa de Morelos,"Ciudad de México, Distrito Federal",19.3718,-99.2918
-MEX,5230,Cuajimalpa de Morelos,"Ciudad de México, Distrito Federal",19.3733,-99.2897
-MEX,5238,Cuajimalpa de Morelos,"Ciudad de México, Distrito Federal",19.3248,-99.3106
-MEX,5240,Cuajimalpa de Morelos,"Ciudad de México, Distrito Federal",19.3656,-99.2823
-MEX,5249,Cuajimalpa de Morelos,"Ciudad de México, Distrito Federal",19.3707,-99.2807
-MEX,5260,Cuajimalpa de Morelos,"Ciudad de México, Distrito Federal",19.3667,-99.3043
-MEX,5268,Cuajimalpa de Morelos,"Ciudad de México, Distrito Federal",19.3668,-99.2999
-MEX,5269,Cuajimalpa de Morelos,"Ciudad de México, Distrito Federal",19.3669,-99.2955
-MEX,5270,Cuajimalpa de Morelos,"Ciudad de México, Distrito Federal",19.3663,-99.2979
-MEX,5280,Cuajimalpa de Morelos,"Ciudad de México, Distrito Federal",19.3632,-99.2956
-MEX,5310,Cuajimalpa de Morelos,"Ciudad de México, Distrito Federal",19.3617,-99.2875
-MEX,5320,Cuajimalpa de Morelos,"Ciudad de México, Distrito Federal",19.3615,-99.2844
-MEX,5330,Cuajimalpa de Morelos,"Ciudad de México, Distrito Federal",19.3581,-99.2881
-MEX,5348,Cuajimalpa de Morelos,"Ciudad de México, Distrito Federal",19.3571,-99.2868
-MEX,5349,Cuajimalpa de Morelos,"Ciudad de México, Distrito Federal",19.3571,-99.2868
-MEX,5360,Cuajimalpa de Morelos,"Ciudad de México, Distrito Federal",19.3505,-99.2902
-MEX,5370,Cuajimalpa de Morelos,"Ciudad de México, Distrito Federal",19.3563,-99.2815
-MEX,5379,Cuajimalpa de Morelos,"Ciudad de México, Distrito Federal",19.3533,-99.2878
-MEX,5400,Cuajimalpa de Morelos,"Ciudad de México, Distrito Federal",19.33,-99.3272
-MEX,5410,Cuajimalpa de Morelos,"Ciudad de México, Distrito Federal",19.33,-99.3272
-MEX,5500,Cuajimalpa de Morelos,"Ciudad de México, Distrito Federal",19.3463,-99.2958
-MEX,5520,Cuajimalpa de Morelos,"Ciudad de México, Distrito Federal",19.3346,-99.3115
-MEX,5530,Cuajimalpa de Morelos,"Ciudad de México, Distrito Federal",19.3518,-99.2928
-MEX,5600,Cuajimalpa de Morelos,"Ciudad de México, Distrito Federal",19.3437,-99.2769
-MEX,5610,Cuajimalpa de Morelos,"Ciudad de México, Distrito Federal",19.3275,-99.2935
-MEX,5619,Cuajimalpa de Morelos,"Ciudad de México, Distrito Federal",19.3275,-99.2935
-MEX,5620,Cuajimalpa de Morelos,"Ciudad de México, Distrito Federal",19.3356,-99.2852
-MEX,5700,Cuajimalpa de Morelos,"Ciudad de México, Distrito Federal",19.3183,-99.3233
-MEX,5710,Cuajimalpa de Morelos,"Ciudad de México, Distrito Federal",19.329,-99.3313
-MEX,5730,Cuajimalpa de Morelos,"Ciudad de México, Distrito Federal",19.3113,-99.33
-MEX,5750,Cuajimalpa de Morelos,"Ciudad de México, Distrito Federal",19.3113,-99.33
-MEX,5760,Cuajimalpa de Morelos,"Ciudad de México, Distrito Federal",19.3163,-99.3335
-MEX,5780,Cuajimalpa de Morelos,"Ciudad de México, Distrito Federal",19.3553,-99.3111
-MEX,7000,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.4787,-99.1147
-MEX,7010,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.4941,-99.1142
-MEX,7020,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.4849,-99.1221
-MEX,7040,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.4973,-99.0968
-MEX,7050,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.4939,-99.1108
-MEX,7058,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.4939,-99.1108
-MEX,7059,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.4939,-99.1108
-MEX,7060,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.4904,-99.1103
-MEX,7069,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.4925,-99.1097
-MEX,7070,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.4905,-99.1042
-MEX,7080,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.4992,-99.0992
-MEX,7089,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.4992,-99.0992
-MEX,7090,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.4916,-99.1091
-MEX,7100,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.448,-99.1169
-MEX,7109,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.5594,-99.1385
-MEX,7110,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.5757,-99.1309
-MEX,7119,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.5757,-99.1309
-MEX,7130,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.566,-99.1415
-MEX,7140,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.5683,-99.1311
-MEX,7144,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.5683,-99.1311
-MEX,7149,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.5683,-99.1311
-MEX,7150,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.5593,-99.1304
-MEX,7160,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.5513,-99.1436
-MEX,7164,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.5601,-99.1442
-MEX,7170,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.552,-99.1313
-MEX,7180,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.5527,-99.1319
-MEX,7183,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.5489,-99.129
-MEX,7187,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.5477,-99.123
-MEX,7188,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.5457,-99.1266
-MEX,7189,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.5458,-99.1314
-MEX,7190,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.5465,-99.1404
-MEX,7199,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.5465,-99.1404
-MEX,7200,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.5667,-99.1333
-MEX,7207,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.5667,-99.1333
-MEX,7208,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.5667,-99.1333
-MEX,7209,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.5667,-99.1333
-MEX,7210,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.553,-99.1519
-MEX,7214,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.553,-99.1519
-MEX,7220,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.5418,-99.1362
-MEX,7224,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.5419,-99.1362
-MEX,7230,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.5402,-99.1489
-MEX,7239,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.5391,-99.143
-MEX,7240,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.5359,-99.14
-MEX,7248,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.5342,-99.1481
-MEX,7249,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.535,-99.1441
-MEX,7250,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.5041,-99.1159
-MEX,7259,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.5041,-99.1159
-MEX,7268,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.5328,-99.1536
-MEX,7269,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.5328,-99.1536
-MEX,7270,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.5261,-99.1511
-MEX,7279,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.5261,-99.1511
-MEX,7280,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.5264,-99.1429
-MEX,7290,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.5266,-99.1381
-MEX,7300,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.5039,-99.1325
-MEX,7310,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.5061,-99.1332
-MEX,7320,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.5119,-99.138
-MEX,7323,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.5063,-99.134
-MEX,7326,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.5103,-99.1362
-MEX,7327,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.5163,-99.1399
-MEX,7328,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.5123,-99.1377
-MEX,7329,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.5169,-99.1403
-MEX,7330,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.5169,-99.1403
-MEX,7340,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.5105,-99.1322
-MEX,7349,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.5105,-99.1322
-MEX,7350,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.5221,-99.1291
-MEX,7359,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.5126,-99.1235
-MEX,7360,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.5055,-99.1265
-MEX,7363,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.5045,-99.1261
-MEX,7369,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.5028,-99.1253
-MEX,7370,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.478,-99.1335
-MEX,7380,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.4765,-99.137
-MEX,7400,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.4888,-99.0978
-MEX,7410,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.5047,-99.1029
-MEX,7420,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.493,-99.0886
-MEX,7430,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.5003,-99.091
-MEX,7440,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.495,-99.0936
-MEX,7450,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.4809,-99.095
-MEX,7455,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.4809,-99.095
-MEX,7456,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.4809,-99.095
-MEX,7457,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.4809,-99.095
-MEX,7458,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.4809,-99.095
-MEX,7459,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.4809,-99.095
-MEX,7460,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.4788,-99.1023
-MEX,7469,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.4832,-99.1006
-MEX,7470,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.4891,-99.0944
-MEX,7480,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.473,-99.0968
-MEX,7500,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.4753,-99.0671
-MEX,7509,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.4753,-99.0671
-MEX,7510,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.5041,-99.1159
-MEX,7520,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.4842,-99.0761
-MEX,7530,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.4857,-99.0789
-MEX,7540,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.4892,-99.0855
-MEX,7548,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.4847,-99.0848
-MEX,7549,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.487,-99.0852
-MEX,7550,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.4834,-99.0715
-MEX,7560,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.4785,-99.0705
-MEX,7570,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.4662,-99.0588
-MEX,7580,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.4783,-99.0849
-MEX,7600,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.5189,-99.1584
-MEX,7620,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.5041,-99.1159
-MEX,7630,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.5258,-99.1651
-MEX,7640,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.5242,-99.1597
-MEX,7650,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.5166,-99.1496
-MEX,7660,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.4939,-99.1108
-MEX,7670,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.5203,-99.1541
-MEX,7680,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.5166,-99.1496
-MEX,7700,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.5103,-99.1508
-MEX,7707,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.5154,-99.1455
-MEX,7708,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.5102,-99.1446
-MEX,7709,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.512,-99.1469
-MEX,7720,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.4968,-99.1439
-MEX,7730,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.4904,-99.1408
-MEX,7738,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.492,-99.1409
-MEX,7739,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.4953,-99.1412
-MEX,7740,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.4877,-99.1417
-MEX,7750,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.5103,-99.1508
-MEX,7754,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.5103,-99.1508
-MEX,7755,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.5103,-99.1508
-MEX,7760,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.4822,-99.1467
-MEX,7770,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.4787,-99.143
-MEX,7780,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.473,-99.1434
-MEX,7790,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.5413,-99.1381
-MEX,7800,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.4506,-99.1129
-MEX,7810,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.5041,-99.1159
-MEX,7820,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.471,-99.1095
-MEX,7830,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.4506,-99.1129
-MEX,7838,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.4506,-99.1129
-MEX,7839,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.4506,-99.1129
-MEX,7840,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.4674,-99.1204
-MEX,7850,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.4667,-99.1076
-MEX,7858,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.5041,-99.1159
-MEX,7859,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.4614,-99.1064
-MEX,7860,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.465,-99.115
-MEX,7869,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.4623,-99.111
-MEX,7870,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.4702,-99.1329
-MEX,7880,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.4597,-99.1141
-MEX,7889,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.5041,-99.1159
-MEX,7890,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.4801,-99.1097
-MEX,7899,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.4527,-99.1048
-MEX,7900,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.448,-99.0582
-MEX,7909,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.448,-99.0582
-MEX,7910,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.4552,-99.0986
-MEX,7918,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.4552,-99.0986
-MEX,7919,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.4552,-99.0986
-MEX,7920,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.4866,-99.1006
-MEX,7930,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.4733,-99.0899
-MEX,7939,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.4737,-99.0916
-MEX,7940,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.4552,-99.0986
-MEX,7950,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.469,-99.0854
-MEX,7958,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.4718,-99.0876
-MEX,7960,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.4531,-99.0979
-MEX,7969,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.4531,-99.0979
-MEX,7970,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.4552,-99.0986
-MEX,7979,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.4552,-99.0986
-MEX,7980,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.4561,-99.0568
-MEX,7990,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.4528,-99.056
-MEX,8000,Iztacalco,"Ciudad de México, Distrito Federal",19.3927,-99.0948
-MEX,8009,Iztacalco,"Ciudad de México, Distrito Federal",19.3927,-99.0948
-MEX,8010,Iztacalco,"Ciudad de México, Distrito Federal",19.3875,-99.0963
-MEX,8020,Iztacalco,"Ciudad de México, Distrito Federal",19.3875,-99.0963
-MEX,8029,Iztacalco,"Ciudad de México, Distrito Federal",19.3875,-99.0963
-MEX,8030,Iztacalco,"Ciudad de México, Distrito Federal",19.3875,-99.0963
-MEX,8040,Iztacalco,"Ciudad de México, Distrito Federal",19.3823,-99.0978
-MEX,8100,Iztacalco,"Ciudad de México, Distrito Federal",19.4121,-99.0643
-MEX,8160,Iztacalco,"Ciudad de México, Distrito Federal",19.3002,-99.0995
-MEX,8170,Iztacalco,"Ciudad de México, Distrito Federal",19.3969,-99.0943
-MEX,8180,Iztacalco,"Ciudad de México, Distrito Federal",19.3002,-99.0995
-MEX,8188,Iztacalco,"Ciudad de México, Distrito Federal",19.3002,-99.0995
-MEX,8189,Iztacalco,"Ciudad de México, Distrito Federal",19.3002,-99.0995
-MEX,8200,Iztacalco,"Ciudad de México, Distrito Federal",19.4006,-99.1319
-MEX,8210,Iztacalco,"Ciudad de México, Distrito Federal",19.3985,-99.1261
-MEX,8220,Iztacalco,"Ciudad de México, Distrito Federal",19.3969,-99.0943
-MEX,8230,Iztacalco,"Ciudad de México, Distrito Federal",19.3956,-99.125
-MEX,8240,Iztacalco,"Ciudad de México, Distrito Federal",19.3919,-99.1251
-MEX,8300,Iztacalco,"Ciudad de México, Distrito Federal",19.4016,-99.1218
-MEX,8310,Iztacalco,"Ciudad de México, Distrito Federal",19.3969,-99.0943
-MEX,8320,Iztacalco,"Ciudad de México, Distrito Federal",19.4471,-99.1119
-MEX,8400,Iztacalco,"Ciudad de México, Distrito Federal",19.4024,-99.0971
-MEX,8420,Iztacalco,"Ciudad de México, Distrito Federal",19.4047,-99.0807
-MEX,8500,Iztacalco,"Ciudad de México, Distrito Federal",19.4,-99.0667
-MEX,8510,Iztacalco,"Ciudad de México, Distrito Federal",19.393,-99.0855
-MEX,8520,Iztacalco,"Ciudad de México, Distrito Federal",19.3965,-99.0761
-MEX,8560,Iztacalco,"Ciudad de México, Distrito Federal",19.3965,-99.0761
-MEX,8580,Iztacalco,"Ciudad de México, Distrito Federal",19.3965,-99.0761
-MEX,8600,Iztacalco,"Ciudad de México, Distrito Federal",19.3896,-99.1195
-MEX,8610,Iztacalco,"Ciudad de México, Distrito Federal",19.3956,-99.122
-MEX,8619,Iztacalco,"Ciudad de México, Distrito Federal",19.3956,-99.122
-MEX,8620,Iztacalco,"Ciudad de México, Distrito Federal",19.3961,-99.117
-MEX,8650,Iztacalco,"Ciudad de México, Distrito Federal",19.3918,-99.1179
-MEX,8700,Iztacalco,"Ciudad de México, Distrito Federal",19.392,-99.1089
-MEX,8710,Iztacalco,"Ciudad de México, Distrito Federal",19.396,-99.1117
-MEX,8720,Iztacalco,"Ciudad de México, Distrito Federal",19.3951,-99.105
-MEX,8730,Iztacalco,"Ciudad de México, Distrito Federal",19.3944,-99.1085
-MEX,8760,Iztacalco,"Ciudad de México, Distrito Federal",19.3944,-99.1085
-MEX,8770,Iztacalco,"Ciudad de México, Distrito Federal",19.3944,-99.1085
-MEX,8800,Iztacalco,"Ciudad de México, Distrito Federal",19.3884,-99.1252
-MEX,8810,Iztacalco,"Ciudad de México, Distrito Federal",19.3885,-99.1311
-MEX,8820,Iztacalco,"Ciudad de México, Distrito Federal",19.3841,-99.1284
-MEX,8830,Iztacalco,"Ciudad de México, Distrito Federal",19.3817,-99.129
-MEX,8840,Iztacalco,"Ciudad de México, Distrito Federal",19.3776,-99.1282
-MEX,8900,Iztacalco,"Ciudad de México, Distrito Federal",19.3867,-99.1197
-MEX,8910,Iztacalco,"Ciudad de México, Distrito Federal",19.3882,-99.1204
-MEX,8920,Iztacalco,"Ciudad de México, Distrito Federal",19.3877,-99.1172
-MEX,8930,Iztacalco,"Ciudad de México, Distrito Federal",19.3843,-99.1215
-MEX,9000,Iztapalapa,"Ciudad de México, Distrito Federal",19.3648,-99.0906
-MEX,9009,Iztapalapa,"Ciudad de México, Distrito Federal",19.3874,-99.1213
-MEX,9010,Iztapalapa,"Ciudad de México, Distrito Federal",19.3884,-99.0823
-MEX,9020,Iztapalapa,"Ciudad de México, Distrito Federal",19.3748,-99.115
-MEX,9030,Iztapalapa,"Ciudad de México, Distrito Federal",19.3862,-99.0871
-MEX,9040,Iztapalapa,"Ciudad de México, Distrito Federal",19.3748,-99.115
-MEX,9060,Iztapalapa,"Ciudad de México, Distrito Federal",19.365,-99.1152
-MEX,9070,Iztapalapa,"Ciudad de México, Distrito Federal",19.3636,-99.1072
-MEX,9080,Iztapalapa,"Ciudad de México, Distrito Federal",19.3593,-99.1254
-MEX,9089,Iztapalapa,"Ciudad de México, Distrito Federal",19.3667,-99.1167
-MEX,9090,Iztapalapa,"Ciudad de México, Distrito Federal",19.3615,-99.1183
-MEX,9099,Iztapalapa,"Ciudad de México, Distrito Federal",19.357,-99.1204
-MEX,9100,Iztapalapa,"Ciudad de México, Distrito Federal",19.3919,-99.0435
-MEX,9110,Iztapalapa,"Ciudad de México, Distrito Federal",19.3901,-99.0388
-MEX,9120,Iztapalapa,"Ciudad de México, Distrito Federal",19.3878,-99.0326
-MEX,9130,Iztapalapa,"Ciudad de México, Distrito Federal",19.3834,-99.0272
-MEX,9140,Iztapalapa,"Ciudad de México, Distrito Federal",19.3773,-99.0159
-MEX,9150,Iztapalapa,"Ciudad de México, Distrito Federal",19.3657,-99.0549
-MEX,9160,Iztapalapa,"Ciudad de México, Distrito Federal",19.3068,-99.1429
-MEX,9170,Iztapalapa,"Ciudad de México, Distrito Federal",19.3657,-99.0549
-MEX,9180,Iztapalapa,"Ciudad de México, Distrito Federal",19.3649,-98.9973
-MEX,9200,Iztapalapa,"Ciudad de México, Distrito Federal",19.3545,-99.1215
-MEX,9207,Iztapalapa,"Ciudad de México, Distrito Federal",19.3545,-99.1215
-MEX,9208,Iztapalapa,"Ciudad de México, Distrito Federal",19.3556,-99.0907
-MEX,9209,Iztapalapa,"Ciudad de México, Distrito Federal",19.3683,-99.0494
-MEX,9210,Iztapalapa,"Ciudad de México, Distrito Federal",19.392,-99.0544
-MEX,9219,Iztapalapa,"Ciudad de México, Distrito Federal",19.386,-99.0528
-MEX,9220,Iztapalapa,"Ciudad de México, Distrito Federal",19.4121,-99.0937
-MEX,9226,Iztapalapa,"Ciudad de México, Distrito Federal",19.4121,-99.0937
-MEX,9227,Iztapalapa,"Ciudad de México, Distrito Federal",19.4121,-99.0937
-MEX,9228,Iztapalapa,"Ciudad de México, Distrito Federal",19.3491,-99.0569
-MEX,9229,Iztapalapa,"Ciudad de México, Distrito Federal",19.4121,-99.0937
-MEX,9230,Iztapalapa,"Ciudad de México, Distrito Federal",19.3674,-99.0503
-MEX,9233,Iztapalapa,"Ciudad de México, Distrito Federal",19.3696,-99.0722
-MEX,9239,Iztapalapa,"Ciudad de México, Distrito Federal",19.3689,-99.0281
-MEX,9240,Iztapalapa,"Ciudad de México, Distrito Federal",19.3491,-99.0569
-MEX,9249,Iztapalapa,"Ciudad de México, Distrito Federal",19.3578,-99.0679
-MEX,9250,Iztapalapa,"Ciudad de México, Distrito Federal",19.351,-99.0606
-MEX,9260,Iztapalapa,"Ciudad de México, Distrito Federal",19.386,-99.0928
-MEX,9270,Iztapalapa,"Ciudad de México, Distrito Federal",19.3466,-99.0554
-MEX,9280,Iztapalapa,"Ciudad de México, Distrito Federal",19.3455,-99.0516
-MEX,9290,Iztapalapa,"Ciudad de México, Distrito Federal",19.3837,-99.0648
-MEX,9300,Iztapalapa,"Ciudad de México, Distrito Federal",19.3696,-99.0753
-MEX,9310,Iztapalapa,"Ciudad de México, Distrito Federal",19.3814,-99.0891
-MEX,9319,Iztapalapa,"Ciudad de México, Distrito Federal",19.3814,-99.0891
-MEX,9320,Iztapalapa,"Ciudad de México, Distrito Federal",19.3735,-99.0658
-MEX,9330,Iztapalapa,"Ciudad de México, Distrito Federal",19.3491,-99.0569
-MEX,9350,Iztapalapa,"Ciudad de México, Distrito Federal",19.3578,-99.0679
-MEX,9359,Iztapalapa,"Ciudad de México, Distrito Federal",19.3571,-99.0687
-MEX,9360,Iztapalapa,"Ciudad de México, Distrito Federal",19.3621,-99.0449
-MEX,9366,Iztapalapa,"Ciudad de México, Distrito Federal",19.4039,-99.0661
-MEX,9368,Iztapalapa,"Ciudad de México, Distrito Federal",19.4039,-99.0661
-MEX,9369,Iztapalapa,"Ciudad de México, Distrito Federal",19.4039,-99.0661
-MEX,9400,Iztapalapa,"Ciudad de México, Distrito Federal",19.3724,-99.1185
-MEX,9410,Iztapalapa,"Ciudad de México, Distrito Federal",19.3749,-99.1055
-MEX,9420,Iztapalapa,"Ciudad de México, Distrito Federal",19.3783,-99.105
-MEX,9429,Iztapalapa,"Ciudad de México, Distrito Federal",19.3796,-99.1086
-MEX,9430,Iztapalapa,"Ciudad de México, Distrito Federal",19.3792,-99.1181
-MEX,9437,Iztapalapa,"Ciudad de México, Distrito Federal",19.3785,-99.1176
-MEX,9438,Iztapalapa,"Ciudad de México, Distrito Federal",19.3771,-99.1165
-MEX,9440,Iztapalapa,"Ciudad de México, Distrito Federal",19.3719,-99.131
-MEX,9450,Iztapalapa,"Ciudad de México, Distrito Federal",19.3628,-99.1371
-MEX,9460,Iztapalapa,"Ciudad de México, Distrito Federal",19.3617,-99.1348
-MEX,9470,Iztapalapa,"Ciudad de México, Distrito Federal",19.3611,-99.1323
-MEX,9479,Iztapalapa,"Ciudad de México, Distrito Federal",19.3649,-99.1298
-MEX,9480,Iztapalapa,"Ciudad de México, Distrito Federal",19.3578,-99.1361
-MEX,9500,Iztapalapa,"Ciudad de México, Distrito Federal",19.3502,-99.0223
-MEX,9510,Iztapalapa,"Ciudad de México, Distrito Federal",19.3599,-99.0079
-MEX,9519,Iztapalapa,"Ciudad de México, Distrito Federal",19.3599,-99.0079
-MEX,9520,Iztapalapa,"Ciudad de México, Distrito Federal",19.3636,-99.0155
-MEX,9530,Iztapalapa,"Ciudad de México, Distrito Federal",19.3685,-99.0193
-MEX,9550,Iztapalapa,"Ciudad de México, Distrito Federal",19.3547,-99.021
-MEX,9560,Iztapalapa,"Ciudad de México, Distrito Federal",19.3405,-99.0326
-MEX,9570,Iztapalapa,"Ciudad de México, Distrito Federal",19.3502,-99.0223
-MEX,9577,Iztapalapa,"Ciudad de México, Distrito Federal",19.3015,-99.0639
-MEX,9578,Iztapalapa,"Ciudad de México, Distrito Federal",19.3661,-99.0347
-MEX,9579,Iztapalapa,"Ciudad de México, Distrito Federal",19.2687,-99.0958
-MEX,9600,Iztapalapa,"Ciudad de México, Distrito Federal",19.3533,-99.0039
-MEX,9608,Iztapalapa,"Ciudad de México, Distrito Federal",19.3533,-99.0039
-MEX,9609,Iztapalapa,"Ciudad de México, Distrito Federal",19.3533,-99.0039
-MEX,9620,Iztapalapa,"Ciudad de México, Distrito Federal",19.3532,-98.9979
-MEX,9630,Iztapalapa,"Ciudad de México, Distrito Federal",19.3366,-98.98
-MEX,9637,Iztapalapa,"Ciudad de México, Distrito Federal",19.3366,-98.98
-MEX,9638,Iztapalapa,"Ciudad de México, Distrito Federal",19.3366,-98.98
-MEX,9640,Iztapalapa,"Ciudad de México, Distrito Federal",19.3413,-99.032
-MEX,9648,Iztapalapa,"Ciudad de México, Distrito Federal",19.3584,-99.089
-MEX,9660,Iztapalapa,"Ciudad de México, Distrito Federal",19.3428,-99.0229
-MEX,9670,Iztapalapa,"Ciudad de México, Distrito Federal",19.3346,-99.0263
-MEX,9680,Iztapalapa,"Ciudad de México, Distrito Federal",19.3292,-99.0211
-MEX,9689,Iztapalapa,"Ciudad de México, Distrito Federal",19.3292,-99.0211
-MEX,9690,Iztapalapa,"Ciudad de México, Distrito Federal",19.3392,-99.0531
-MEX,9696,Iztapalapa,"Ciudad de México, Distrito Federal",19.3392,-99.0531
-MEX,9698,Iztapalapa,"Ciudad de México, Distrito Federal",19.3392,-99.0531
-MEX,9700,Iztapalapa,"Ciudad de México, Distrito Federal",19.3556,-99.0603
-MEX,9704,Iztapalapa,"Ciudad de México, Distrito Federal",19.276,-99.0876
-MEX,9705,Iztapalapa,"Ciudad de México, Distrito Federal",19.354,-99.0817
-MEX,9706,Iztapalapa,"Ciudad de México, Distrito Federal",19.3243,-99.0339
-MEX,9708,Iztapalapa,"Ciudad de México, Distrito Federal",19.3248,-99.0482
-MEX,9709,Iztapalapa,"Ciudad de México, Distrito Federal",19.3325,-99.0358
-MEX,9710,Iztapalapa,"Ciudad de México, Distrito Federal",19.3413,-99.0607
-MEX,9719,Iztapalapa,"Ciudad de México, Distrito Federal",19.3212,-99.1022
-MEX,9720,Iztapalapa,"Ciudad de México, Distrito Federal",19.3668,-99.1307
-MEX,9730,Iztapalapa,"Ciudad de México, Distrito Federal",19.3391,-99.0317
-MEX,9740,Iztapalapa,"Ciudad de México, Distrito Federal",19.3317,-99.0609
-MEX,9750,Iztapalapa,"Ciudad de México, Distrito Federal",19.3334,-99.0523
-MEX,9759,Iztapalapa,"Ciudad de México, Distrito Federal",19.3334,-99.0523
-MEX,9760,Iztapalapa,"Ciudad de México, Distrito Federal",19.3252,-99.0569
-MEX,9767,Iztapalapa,"Ciudad de México, Distrito Federal",19.3237,-99.0543
-MEX,9768,Iztapalapa,"Ciudad de México, Distrito Federal",19.3237,-99.0543
-MEX,9769,Iztapalapa,"Ciudad de México, Distrito Federal",19.3221,-99.0518
-MEX,9770,Iztapalapa,"Ciudad de México, Distrito Federal",19.3274,-99.0653
-MEX,9779,Iztapalapa,"Ciudad de México, Distrito Federal",19.3274,-99.0653
-MEX,9780,Iztapalapa,"Ciudad de México, Distrito Federal",19.3428,-99.0709
-MEX,9789,Iztapalapa,"Ciudad de México, Distrito Federal",19.3235,-99.0675
-MEX,9790,Iztapalapa,"Ciudad de México, Distrito Federal",19.3116,-99.0679
-MEX,9800,Iztapalapa,"Ciudad de México, Distrito Federal",19.3466,-99.104
-MEX,9809,Iztapalapa,"Ciudad de México, Distrito Federal",19.3413,-99.1041
-MEX,9810,Iztapalapa,"Ciudad de México, Distrito Federal",19.353,-99.1121
-MEX,9819,Iztapalapa,"Ciudad de México, Distrito Federal",19.3477,-99.1148
-MEX,9820,Iztapalapa,"Ciudad de México, Distrito Federal",19.3525,-99.0991
-MEX,9828,Iztapalapa,"Ciudad de México, Distrito Federal",19.3537,-99.1009
-MEX,9829,Iztapalapa,"Ciudad de México, Distrito Federal",19.3519,-99.0956
-MEX,9830,Iztapalapa,"Ciudad de México, Distrito Federal",19.3471,-99.0802
-MEX,9836,Iztapalapa,"Ciudad de México, Distrito Federal",19.3491,-99.0569
-MEX,9837,Iztapalapa,"Ciudad de México, Distrito Federal",19.3609,-99.1088
-MEX,9838,Iztapalapa,"Ciudad de México, Distrito Federal",19.3535,-99.0859
-MEX,9839,Iztapalapa,"Ciudad de México, Distrito Federal",19.3366,-99.0674
-MEX,9840,Iztapalapa,"Ciudad de México, Distrito Federal",19.3454,-99.1097
-MEX,9849,Iztapalapa,"Ciudad de México, Distrito Federal",19.3454,-99.1097
-MEX,9850,Iztapalapa,"Ciudad de México, Distrito Federal",19.3369,-99.0893
-MEX,9856,Iztapalapa,"Ciudad de México, Distrito Federal",19.3505,-99.0894
-MEX,9857,Iztapalapa,"Ciudad de México, Distrito Federal",19.3116,-99.0679
-MEX,9858,Iztapalapa,"Ciudad de México, Distrito Federal",19.3401,-99.1114
-MEX,9859,Iztapalapa,"Ciudad de México, Distrito Federal",19.3712,-99.1317
-MEX,9860,Iztapalapa,"Ciudad de México, Distrito Federal",19.3459,-99.086
-MEX,9864,Iztapalapa,"Ciudad de México, Distrito Federal",19.3723,-99.1277
-MEX,9868,Iztapalapa,"Ciudad de México, Distrito Federal",19.3285,-99.0698
-MEX,9869,Iztapalapa,"Ciudad de México, Distrito Federal",19.3723,-99.1277
-MEX,9870,Iztapalapa,"Ciudad de México, Distrito Federal",19.3352,-99.1038
-MEX,9880,Iztapalapa,"Ciudad de México, Distrito Federal",19.3291,-99.0733
-MEX,9889,Iztapalapa,"Ciudad de México, Distrito Federal",19.3291,-99.0733
-MEX,9890,Iztapalapa,"Ciudad de México, Distrito Federal",19.3164,-99.0914
-MEX,9897,Iztapalapa,"Ciudad de México, Distrito Federal",19.3164,-99.0914
-MEX,9899,Iztapalapa,"Ciudad de México, Distrito Federal",19.3164,-99.0914
-MEX,9900,Iztapalapa,"Ciudad de México, Distrito Federal",19.3304,-99.0624
-MEX,9910,Iztapalapa,"Ciudad de México, Distrito Federal",19.4284,-99.1058
-MEX,9920,Iztapalapa,"Ciudad de México, Distrito Federal",19.306,-99.0818
-MEX,9930,Iztapalapa,"Ciudad de México, Distrito Federal",19.3491,-99.0569
-MEX,9940,Iztapalapa,"Ciudad de México, Distrito Federal",19.2963,-99.0736
-MEX,9960,Iztapalapa,"Ciudad de México, Distrito Federal",19.3124,-99.0715
-MEX,9969,Iztapalapa,"Ciudad de México, Distrito Federal",19.3087,-99.0961
-MEX,9970,Iztapalapa,"Ciudad de México, Distrito Federal",19.2995,-99.0784
-MEX,9979,Iztapalapa,"Ciudad de México, Distrito Federal",19.3491,-99.0569
+MEX,02000,Azcapotzalco,"Ciudad de México, Distrito Federal",19.4815,-99.1862
+MEX,02008,Azcapotzalco,"Ciudad de México, Distrito Federal",19.4815,-99.1862
+MEX,02010,Azcapotzalco,"Ciudad de México, Distrito Federal",19.4407,-99.1496
+MEX,02020,Azcapotzalco,"Ciudad de México, Distrito Federal",19.4852,-99.1796
+MEX,02040,Azcapotzalco,"Ciudad de México, Distrito Federal",19.4816,-99.1799
+MEX,02050,Azcapotzalco,"Ciudad de México, Distrito Federal",19.4781,-99.1774
+MEX,02060,Azcapotzalco,"Ciudad de México, Distrito Federal",19.474,-99.1778
+MEX,02070,Azcapotzalco,"Ciudad de México, Distrito Federal",19.478,-99.1863
+MEX,02080,Azcapotzalco,"Ciudad de México, Distrito Federal",19.468,-99.1801
+MEX,02090,Azcapotzalco,"Ciudad de México, Distrito Federal",19.4614,-99.1849
+MEX,02099,Azcapotzalco,"Ciudad de México, Distrito Federal",19.4673,-99.1893
+MEX,02100,Azcapotzalco,"Ciudad de México, Distrito Federal",19.5086,-99.2042
+MEX,02109,Azcapotzalco,"Ciudad de México, Distrito Federal",19.5086,-99.2042
+MEX,02110,Azcapotzalco,"Ciudad de México, Distrito Federal",19.4966,-99.1864
+MEX,02120,Azcapotzalco,"Ciudad de México, Distrito Federal",19.5009,-99.1941
+MEX,02125,Azcapotzalco,"Ciudad de México, Distrito Federal",19.5009,-99.1941
+MEX,02128,Azcapotzalco,"Ciudad de México, Distrito Federal",19.5016,-99.1894
+MEX,02129,Azcapotzalco,"Ciudad de México, Distrito Federal",19.4982,-99.1876
+MEX,02130,Azcapotzalco,"Ciudad de México, Distrito Federal",19.4993,-99.2005
+MEX,02140,Azcapotzalco,"Ciudad de México, Distrito Federal",19.495,-99.1909
+MEX,02150,Azcapotzalco,"Ciudad de México, Distrito Federal",19.4945,-99.196
+MEX,02160,Azcapotzalco,"Ciudad de México, Distrito Federal",19.4865,-99.191
+MEX,02169,Azcapotzalco,"Ciudad de México, Distrito Federal",19.4899,-99.1924
+MEX,02200,Azcapotzalco,"Ciudad de México, Distrito Federal",19.494,-99.1876
+MEX,02230,Azcapotzalco,"Ciudad de México, Distrito Federal",19.4999,-99.1797
+MEX,02240,Azcapotzalco,"Ciudad de México, Distrito Federal",19.5011,-99.1612
+MEX,02250,Azcapotzalco,"Ciudad de México, Distrito Federal",19.4853,-99.1821
+MEX,02260,Azcapotzalco,"Ciudad de México, Distrito Federal",19.5036,-99.1692
+MEX,02300,Azcapotzalco,"Ciudad de México, Distrito Federal",19.4853,-99.1821
+MEX,02310,Azcapotzalco,"Ciudad de México, Distrito Federal",19.5055,-99.1753
+MEX,02320,Azcapotzalco,"Ciudad de México, Distrito Federal",19.4901,-99.154
+MEX,02330,Azcapotzalco,"Ciudad de México, Distrito Federal",19.489,-99.1595
+MEX,02340,Azcapotzalco,"Ciudad de México, Distrito Federal",19.4875,-99.155
+MEX,02350,Azcapotzalco,"Ciudad de México, Distrito Federal",19.4824,-99.1647
+MEX,02360,Azcapotzalco,"Ciudad de México, Distrito Federal",19.4822,-99.1467
+MEX,02400,Azcapotzalco,"Ciudad de México, Distrito Federal",19.4897,-99.2046
+MEX,02409,Azcapotzalco,"Ciudad de México, Distrito Federal",19.487,-99.2059
+MEX,02410,Azcapotzalco,"Ciudad de México, Distrito Federal",19.5034,-99.2095
+MEX,02419,Azcapotzalco,"Ciudad de México, Distrito Federal",19.5034,-99.2095
+MEX,02420,Azcapotzalco,"Ciudad de México, Distrito Federal",19.4776,-99.1838
+MEX,02430,Azcapotzalco,"Ciudad de México, Distrito Federal",19.4955,-99.202
+MEX,02440,Azcapotzalco,"Ciudad de México, Distrito Federal",19.4853,-99.1821
+MEX,02450,Azcapotzalco,"Ciudad de México, Distrito Federal",19.4882,-99.1898
+MEX,02459,Azcapotzalco,"Ciudad de México, Distrito Federal",19.4889,-99.1982
+MEX,02460,Azcapotzalco,"Ciudad de México, Distrito Federal",19.4864,-99.1937
+MEX,02470,Azcapotzalco,"Ciudad de México, Distrito Federal",19.483,-99.1953
+MEX,02479,Azcapotzalco,"Ciudad de México, Distrito Federal",19.4853,-99.1821
+MEX,02480,Azcapotzalco,"Ciudad de México, Distrito Federal",19.4853,-99.2001
+MEX,02490,Azcapotzalco,"Ciudad de México, Distrito Federal",19.4831,-99.1917
+MEX,02500,Azcapotzalco,"Ciudad de México, Distrito Federal",19.4829,-99.1728
+MEX,02510,Azcapotzalco,"Ciudad de México, Distrito Federal",19.4858,-99.1733
+MEX,02519,Azcapotzalco,"Ciudad de México, Distrito Federal",19.486,-99.1735
+MEX,02520,Azcapotzalco,"Ciudad de México, Distrito Federal",19.4836,-99.1693
+MEX,02525,Azcapotzalco,"Ciudad de México, Distrito Federal",19.4836,-99.1693
+MEX,02530,Azcapotzalco,"Ciudad de México, Distrito Federal",19.4733,-99.1747
+MEX,02540,Azcapotzalco,"Ciudad de México, Distrito Federal",19.4829,-99.1728
+MEX,02600,Azcapotzalco,"Ciudad de México, Distrito Federal",19.4754,-99.1537
+MEX,02630,Azcapotzalco,"Ciudad de México, Distrito Federal",19.4826,-99.1532
+MEX,02640,Azcapotzalco,"Ciudad de México, Distrito Federal",19.4798,-99.1563
+MEX,02650,Azcapotzalco,"Ciudad de México, Distrito Federal",19.4771,-99.1578
+MEX,02660,Azcapotzalco,"Ciudad de México, Distrito Federal",19.4772,-99.1607
+MEX,02670,Azcapotzalco,"Ciudad de México, Distrito Federal",19.4731,-99.1624
+MEX,02680,Azcapotzalco,"Ciudad de México, Distrito Federal",19.4744,-99.1607
+MEX,02700,Azcapotzalco,"Ciudad de México, Distrito Federal",19.5092,-99.2056
+MEX,02710,Azcapotzalco,"Ciudad de México, Distrito Federal",19.4839,-99.2098
+MEX,02718,Azcapotzalco,"Ciudad de México, Distrito Federal",19.4855,-99.2166
+MEX,02719,Azcapotzalco,"Ciudad de México, Distrito Federal",19.478,-99.2164
+MEX,02720,Azcapotzalco,"Ciudad de México, Distrito Federal",19.4837,-99.1912
+MEX,02729,Azcapotzalco,"Ciudad de México, Distrito Federal",19.481,-99.1992
+MEX,02730,Azcapotzalco,"Ciudad de México, Distrito Federal",19.48,-99.1913
+MEX,02739,Azcapotzalco,"Ciudad de México, Distrito Federal",19.48,-99.1913
+MEX,02750,Azcapotzalco,"Ciudad de México, Distrito Federal",19.481,-99.1964
+MEX,02760,Azcapotzalco,"Ciudad de México, Distrito Federal",19.4786,-99.197
+MEX,02770,Azcapotzalco,"Ciudad de México, Distrito Federal",19.4739,-99.1922
+MEX,02780,Azcapotzalco,"Ciudad de México, Distrito Federal",19.4736,-99.1974
+MEX,02790,Azcapotzalco,"Ciudad de México, Distrito Federal",19.4756,-99.1948
+MEX,02800,Azcapotzalco,"Ciudad de México, Distrito Federal",19.4625,-99.1682
+MEX,02810,Azcapotzalco,"Ciudad de México, Distrito Federal",19.4676,-99.1633
+MEX,02830,Azcapotzalco,"Ciudad de México, Distrito Federal",19.4678,-99.1742
+MEX,02840,Azcapotzalco,"Ciudad de México, Distrito Federal",19.4635,-99.1747
+MEX,02850,Azcapotzalco,"Ciudad de México, Distrito Federal",19.462,-99.1634
+MEX,02860,Azcapotzalco,"Ciudad de México, Distrito Federal",19.462,-99.1634
+MEX,02870,Azcapotzalco,"Ciudad de México, Distrito Federal",19.4596,-99.1738
+MEX,02900,Azcapotzalco,"Ciudad de México, Distrito Federal",19.4727,-99.156
+MEX,02910,Azcapotzalco,"Ciudad de México, Distrito Federal",19.4705,-99.1499
+MEX,02920,Azcapotzalco,"Ciudad de México, Distrito Federal",19.4689,-99.1509
+MEX,02930,Azcapotzalco,"Ciudad de México, Distrito Federal",19.4705,-99.1526
+MEX,02940,Azcapotzalco,"Ciudad de México, Distrito Federal",19.4707,-99.1464
+MEX,02950,Azcapotzalco,"Ciudad de México, Distrito Federal",19.4688,-99.1577
+MEX,02960,Azcapotzalco,"Ciudad de México, Distrito Federal",19.4684,-99.1466
+MEX,02970,Azcapotzalco,"Ciudad de México, Distrito Federal",19.4689,-99.1509
+MEX,02980,Azcapotzalco,"Ciudad de México, Distrito Federal",19.4665,-99.1512
+MEX,02990,Azcapotzalco,"Ciudad de México, Distrito Federal",19.4657,-99.1463
+MEX,04000,Coyoacán,"Ciudad de México, Distrito Federal",19.34,-99.1617
+MEX,04009,Coyoacán,"Ciudad de México, Distrito Federal",19.34,-99.1617
+MEX,04010,Coyoacán,"Ciudad de México, Distrito Federal",19.3175,-99.1327
+MEX,04020,Coyoacán,"Ciudad de México, Distrito Federal",19.3267,-99.1504
+MEX,04030,Coyoacán,"Ciudad de México, Distrito Federal",19.3175,-99.1327
+MEX,04040,Coyoacán,"Ciudad de México, Distrito Federal",19.3457,-99.1479
+MEX,04100,Coyoacán,"Ciudad de México, Distrito Federal",19.4206,-99.1815
+MEX,04110,Coyoacán,"Ciudad de México, Distrito Federal",19.3581,-99.1713
+MEX,04120,Coyoacán,"Ciudad de México, Distrito Federal",19.4049,-99.1711
+MEX,04129,Coyoacán,"Ciudad de México, Distrito Federal",19.4831,-99.1917
+MEX,04200,Coyoacán,"Ciudad de México, Distrito Federal",19.3459,-99.1346
+MEX,04210,Coyoacán,"Ciudad de México, Distrito Federal",19.3455,-99.1326
+MEX,04230,Coyoacán,"Ciudad de México, Distrito Federal",19.35,-99.15
+MEX,04239,Coyoacán,"Ciudad de México, Distrito Federal",19.35,-99.15
+MEX,04240,Coyoacán,"Ciudad de México, Distrito Federal",19.3474,-99.1287
+MEX,04250,Coyoacán,"Ciudad de México, Distrito Federal",19.3443,-99.1249
+MEX,04259,Coyoacán,"Ciudad de México, Distrito Federal",19.3443,-99.1249
+MEX,04260,Coyoacán,"Ciudad de México, Distrito Federal",19.3455,-99.1326
+MEX,04270,Coyoacán,"Ciudad de México, Distrito Federal",19.3455,-99.1326
+MEX,04280,Coyoacán,"Ciudad de México, Distrito Federal",19.3396,-99.1246
+MEX,04300,Coyoacán,"Ciudad de México, Distrito Federal",19.3198,-99.1622
+MEX,04307,Coyoacán,"Ciudad de México, Distrito Federal",19.3198,-99.1622
+MEX,04309,Coyoacán,"Ciudad de México, Distrito Federal",19.3198,-99.1622
+MEX,04310,Coyoacán,"Ciudad de México, Distrito Federal",19.343,-99.1743
+MEX,04317,Coyoacán,"Ciudad de México, Distrito Federal",19.342,-99.1797
+MEX,04318,Coyoacán,"Ciudad de México, Distrito Federal",19.342,-99.1797
+MEX,04319,Coyoacán,"Ciudad de México, Distrito Federal",19.3409,-99.185
+MEX,04320,Coyoacán,"Ciudad de México, Distrito Federal",19.341,-99.169
+MEX,04326,Coyoacán,"Ciudad de México, Distrito Federal",19.34,-99.1617
+MEX,04327,Coyoacán,"Ciudad de México, Distrito Federal",19.3407,-99.1672
+MEX,04330,Coyoacán,"Ciudad de México, Distrito Federal",19.3376,-99.1528
+MEX,04336,Coyoacán,"Ciudad de México, Distrito Federal",19.3378,-99.1523
+MEX,04337,Coyoacán,"Ciudad de México, Distrito Federal",19.3378,-99.1523
+MEX,04338,Coyoacán,"Ciudad de México, Distrito Federal",19.3355,-99.1516
+MEX,04340,Coyoacán,"Ciudad de México, Distrito Federal",19.339,-99.1867
+MEX,04350,Coyoacán,"Ciudad de México, Distrito Federal",19.3405,-99.1809
+MEX,04359,Coyoacán,"Ciudad de México, Distrito Federal",19.3405,-99.1809
+MEX,04360,Coyoacán,"Ciudad de México, Distrito Federal",19.3338,-99.1794
+MEX,04368,Coyoacán,"Ciudad de México, Distrito Federal",19.3321,-99.1753
+MEX,04369,Coyoacán,"Ciudad de México, Distrito Federal",19.3286,-99.1672
+MEX,04370,Coyoacán,"Ciudad de México, Distrito Federal",19.3376,-99.1448
+MEX,04380,Coyoacán,"Ciudad de México, Distrito Federal",19.4177,-99.1773
+MEX,04390,Coyoacán,"Ciudad de México, Distrito Federal",19.3258,-99.1575
+MEX,04400,Coyoacán,"Ciudad de México, Distrito Federal",19.3344,-99.1333
+MEX,04410,Coyoacán,"Ciudad de México, Distrito Federal",19.3326,-99.1415
+MEX,04420,Coyoacán,"Ciudad de México, Distrito Federal",19.3239,-99.1348
+MEX,04440,Coyoacán,"Ciudad de México, Distrito Federal",19.3239,-99.1348
+MEX,04450,Coyoacán,"Ciudad de México, Distrito Federal",19.3356,-99.1394
+MEX,04460,Coyoacán,"Ciudad de México, Distrito Federal",19.3288,-99.1347
+MEX,04470,Coyoacán,"Ciudad de México, Distrito Federal",19.3239,-99.1348
+MEX,04480,Coyoacán,"Ciudad de México, Distrito Federal",19.3277,-99.1218
+MEX,04489,Coyoacán,"Ciudad de México, Distrito Federal",19.3277,-99.1218
+MEX,04490,Coyoacán,"Ciudad de México, Distrito Federal",19.3239,-99.1348
+MEX,04500,Coyoacán,"Ciudad de México, Distrito Federal",19.3066,-99.1986
+MEX,04510,Coyoacán,"Ciudad de México, Distrito Federal",19.3231,-99.185
+MEX,04513,Coyoacán,"Ciudad de México, Distrito Federal",19.3231,-99.185
+MEX,04519,Coyoacán,"Ciudad de México, Distrito Federal",19.3231,-99.185
+MEX,04530,Coyoacán,"Ciudad de México, Distrito Federal",19.3003,-99.1959
+MEX,04535,Coyoacán,"Ciudad de México, Distrito Federal",19.3065,-99.1821
+MEX,04600,Coyoacán,"Ciudad de México, Distrito Federal",19.3036,-99.1726
+MEX,04610,Coyoacán,"Ciudad de México, Distrito Federal",19.3279,-99.1404
+MEX,04620,Coyoacán,"Ciudad de México, Distrito Federal",19.3148,-99.151
+MEX,04630,Coyoacán,"Ciudad de México, Distrito Federal",19.319,-99.15
+MEX,04640,Coyoacán,"Ciudad de México, Distrito Federal",19.3172,-99.1416
+MEX,04650,Coyoacán,"Ciudad de México, Distrito Federal",19.3156,-99.1431
+MEX,04660,Coyoacán,"Ciudad de México, Distrito Federal",19.3053,-99.1581
+MEX,04700,Coyoacán,"Ciudad de México, Distrito Federal",19.3079,-99.1735
+MEX,04710,Coyoacán,"Ciudad de México, Distrito Federal",19.3038,-99.1702
+MEX,04718,Coyoacán,"Ciudad de México, Distrito Federal",19.3051,-99.1734
+MEX,04719,Coyoacán,"Ciudad de México, Distrito Federal",19.3045,-99.1718
+MEX,04720,Coyoacán,"Ciudad de México, Distrito Federal",19.3087,-99.1752
+MEX,04729,Coyoacán,"Ciudad de México, Distrito Federal",19.3087,-99.1752
+MEX,04730,Coyoacán,"Ciudad de México, Distrito Federal",19.301,-99.1548
+MEX,04738,Coyoacán,"Ciudad de México, Distrito Federal",19.3022,-99.1577
+MEX,04739,Coyoacán,"Ciudad de México, Distrito Federal",19.3046,-99.1638
+MEX,04800,Coyoacán,"Ciudad de México, Distrito Federal",19.3216,-99.1347
+MEX,04810,Coyoacán,"Ciudad de México, Distrito Federal",19.3201,-99.1327
+MEX,04815,Coyoacán,"Ciudad de México, Distrito Federal",19.3267,-99.1504
+MEX,04830,Coyoacán,"Ciudad de México, Distrito Federal",19.3239,-99.1411
+MEX,04840,Coyoacán,"Ciudad de México, Distrito Federal",19.3455,-99.1345
+MEX,04843,Coyoacán,"Ciudad de México, Distrito Federal",19.3455,-99.1345
+MEX,04849,Coyoacán,"Ciudad de México, Distrito Federal",19.3455,-99.1345
+MEX,04850,Coyoacán,"Ciudad de México, Distrito Federal",19.3455,-99.1345
+MEX,04870,Coyoacán,"Ciudad de México, Distrito Federal",19.3164,-99.1348
+MEX,04890,Coyoacán,"Ciudad de México, Distrito Federal",19.3204,-99.1391
+MEX,04899,Coyoacán,"Ciudad de México, Distrito Federal",19.3113,-99.1307
+MEX,04908,Coyoacán,"Ciudad de México, Distrito Federal",19.3267,-99.1504
+MEX,04909,Coyoacán,"Ciudad de México, Distrito Federal",19.2112,-99.0508
+MEX,04910,Coyoacán,"Ciudad de México, Distrito Federal",19.3195,-99.1083
+MEX,04918,Coyoacán,"Ciudad de México, Distrito Federal",19.3195,-99.1083
+MEX,04919,Coyoacán,"Ciudad de México, Distrito Federal",19.3195,-99.1083
+MEX,04920,Coyoacán,"Ciudad de México, Distrito Federal",19.3092,-99.1212
+MEX,04929,Coyoacán,"Ciudad de México, Distrito Federal",19.3092,-99.1212
+MEX,04930,Coyoacán,"Ciudad de México, Distrito Federal",19.3267,-99.1504
+MEX,04938,Coyoacán,"Ciudad de México, Distrito Federal",19.3459,-99.1346
+MEX,04939,Coyoacán,"Ciudad de México, Distrito Federal",19.3459,-99.1346
+MEX,04940,Coyoacán,"Ciudad de México, Distrito Federal",19.3035,-99.1166
+MEX,04950,Coyoacán,"Ciudad de México, Distrito Federal",19.3267,-99.1504
+MEX,04960,Coyoacán,"Ciudad de México, Distrito Federal",19.3025,-99.1049
+MEX,04970,Coyoacán,"Ciudad de México, Distrito Federal",19.3026,-99.1119
+MEX,04980,Coyoacán,"Ciudad de México, Distrito Federal",19.3068,-99.1385
+MEX,05000,Cuajimalpa de Morelos,"Ciudad de México, Distrito Federal",19.3692,-99.2909
+MEX,05009,Cuajimalpa de Morelos,"Ciudad de México, Distrito Federal",19.3692,-99.2909
+MEX,05010,Cuajimalpa de Morelos,"Ciudad de México, Distrito Federal",19.3482,-99.3103
+MEX,05020,Cuajimalpa de Morelos,"Ciudad de México, Distrito Federal",19.3595,-99.3064
+MEX,05030,Cuajimalpa de Morelos,"Ciudad de México, Distrito Federal",19.3681,-99.3058
+MEX,05039,Cuajimalpa de Morelos,"Ciudad de México, Distrito Federal",19.3681,-99.3058
+MEX,05050,Cuajimalpa de Morelos,"Ciudad de México, Distrito Federal",19.3524,-99.3188
+MEX,05060,Cuajimalpa de Morelos,"Ciudad de México, Distrito Federal",19.3595,-99.3064
+MEX,05100,Cuajimalpa de Morelos,"Ciudad de México, Distrito Federal",19.3792,-99.2703
+MEX,05110,Cuajimalpa de Morelos,"Ciudad de México, Distrito Federal",19.3837,-99.2545
+MEX,05118,Cuajimalpa de Morelos,"Ciudad de México, Distrito Federal",19.3837,-99.2545
+MEX,05119,Cuajimalpa de Morelos,"Ciudad de México, Distrito Federal",19.3837,-99.2545
+MEX,05120,Cuajimalpa de Morelos,"Ciudad de México, Distrito Federal",19.3789,-99.2659
+MEX,05126,Cuajimalpa de Morelos,"Ciudad de México, Distrito Federal",19.3863,-99.2642
+MEX,05128,Cuajimalpa de Morelos,"Ciudad de México, Distrito Federal",19.3863,-99.2642
+MEX,05129,Cuajimalpa de Morelos,"Ciudad de México, Distrito Federal",19.3937,-99.2625
+MEX,05130,Cuajimalpa de Morelos,"Ciudad de México, Distrito Federal",19.3839,-99.2633
+MEX,05200,Cuajimalpa de Morelos,"Ciudad de México, Distrito Federal",19.3657,-99.2892
+MEX,05214,Cuajimalpa de Morelos,"Ciudad de México, Distrito Federal",19.3773,-99.282
+MEX,05219,Cuajimalpa de Morelos,"Ciudad de México, Distrito Federal",19.374,-99.2855
+MEX,05220,Cuajimalpa de Morelos,"Ciudad de México, Distrito Federal",19.3718,-99.2918
+MEX,05230,Cuajimalpa de Morelos,"Ciudad de México, Distrito Federal",19.3733,-99.2897
+MEX,05238,Cuajimalpa de Morelos,"Ciudad de México, Distrito Federal",19.3248,-99.3106
+MEX,05240,Cuajimalpa de Morelos,"Ciudad de México, Distrito Federal",19.3656,-99.2823
+MEX,05249,Cuajimalpa de Morelos,"Ciudad de México, Distrito Federal",19.3707,-99.2807
+MEX,05260,Cuajimalpa de Morelos,"Ciudad de México, Distrito Federal",19.3667,-99.3043
+MEX,05268,Cuajimalpa de Morelos,"Ciudad de México, Distrito Federal",19.3668,-99.2999
+MEX,05269,Cuajimalpa de Morelos,"Ciudad de México, Distrito Federal",19.3669,-99.2955
+MEX,05270,Cuajimalpa de Morelos,"Ciudad de México, Distrito Federal",19.3663,-99.2979
+MEX,05280,Cuajimalpa de Morelos,"Ciudad de México, Distrito Federal",19.3632,-99.2956
+MEX,05310,Cuajimalpa de Morelos,"Ciudad de México, Distrito Federal",19.3617,-99.2875
+MEX,05320,Cuajimalpa de Morelos,"Ciudad de México, Distrito Federal",19.3615,-99.2844
+MEX,05330,Cuajimalpa de Morelos,"Ciudad de México, Distrito Federal",19.3581,-99.2881
+MEX,05348,Cuajimalpa de Morelos,"Ciudad de México, Distrito Federal",19.3571,-99.2868
+MEX,05349,Cuajimalpa de Morelos,"Ciudad de México, Distrito Federal",19.3571,-99.2868
+MEX,05360,Cuajimalpa de Morelos,"Ciudad de México, Distrito Federal",19.3505,-99.2902
+MEX,05370,Cuajimalpa de Morelos,"Ciudad de México, Distrito Federal",19.3563,-99.2815
+MEX,05379,Cuajimalpa de Morelos,"Ciudad de México, Distrito Federal",19.3533,-99.2878
+MEX,05400,Cuajimalpa de Morelos,"Ciudad de México, Distrito Federal",19.33,-99.3272
+MEX,05410,Cuajimalpa de Morelos,"Ciudad de México, Distrito Federal",19.33,-99.3272
+MEX,05500,Cuajimalpa de Morelos,"Ciudad de México, Distrito Federal",19.3463,-99.2958
+MEX,05520,Cuajimalpa de Morelos,"Ciudad de México, Distrito Federal",19.3346,-99.3115
+MEX,05530,Cuajimalpa de Morelos,"Ciudad de México, Distrito Federal",19.3518,-99.2928
+MEX,05600,Cuajimalpa de Morelos,"Ciudad de México, Distrito Federal",19.3437,-99.2769
+MEX,05610,Cuajimalpa de Morelos,"Ciudad de México, Distrito Federal",19.3275,-99.2935
+MEX,05619,Cuajimalpa de Morelos,"Ciudad de México, Distrito Federal",19.3275,-99.2935
+MEX,05620,Cuajimalpa de Morelos,"Ciudad de México, Distrito Federal",19.3356,-99.2852
+MEX,05700,Cuajimalpa de Morelos,"Ciudad de México, Distrito Federal",19.3183,-99.3233
+MEX,05710,Cuajimalpa de Morelos,"Ciudad de México, Distrito Federal",19.329,-99.3313
+MEX,05730,Cuajimalpa de Morelos,"Ciudad de México, Distrito Federal",19.3113,-99.33
+MEX,05750,Cuajimalpa de Morelos,"Ciudad de México, Distrito Federal",19.3113,-99.33
+MEX,05760,Cuajimalpa de Morelos,"Ciudad de México, Distrito Federal",19.3163,-99.3335
+MEX,05780,Cuajimalpa de Morelos,"Ciudad de México, Distrito Federal",19.3553,-99.3111
+MEX,07000,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.4787,-99.1147
+MEX,07010,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.4941,-99.1142
+MEX,07020,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.4849,-99.1221
+MEX,07040,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.4973,-99.0968
+MEX,07050,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.4939,-99.1108
+MEX,07058,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.4939,-99.1108
+MEX,07059,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.4939,-99.1108
+MEX,07060,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.4904,-99.1103
+MEX,07069,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.4925,-99.1097
+MEX,07070,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.4905,-99.1042
+MEX,07080,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.4992,-99.0992
+MEX,07089,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.4992,-99.0992
+MEX,07090,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.4916,-99.1091
+MEX,07100,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.448,-99.1169
+MEX,07109,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.5594,-99.1385
+MEX,07110,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.5757,-99.1309
+MEX,07119,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.5757,-99.1309
+MEX,07130,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.566,-99.1415
+MEX,07140,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.5683,-99.1311
+MEX,07144,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.5683,-99.1311
+MEX,07149,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.5683,-99.1311
+MEX,07150,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.5593,-99.1304
+MEX,07160,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.5513,-99.1436
+MEX,07164,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.5601,-99.1442
+MEX,07170,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.552,-99.1313
+MEX,07180,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.5527,-99.1319
+MEX,07183,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.5489,-99.129
+MEX,07187,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.5477,-99.123
+MEX,07188,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.5457,-99.1266
+MEX,07189,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.5458,-99.1314
+MEX,07190,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.5465,-99.1404
+MEX,07199,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.5465,-99.1404
+MEX,07200,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.5667,-99.1333
+MEX,07207,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.5667,-99.1333
+MEX,07208,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.5667,-99.1333
+MEX,07209,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.5667,-99.1333
+MEX,07210,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.553,-99.1519
+MEX,07214,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.553,-99.1519
+MEX,07220,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.5418,-99.1362
+MEX,07224,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.5419,-99.1362
+MEX,07230,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.5402,-99.1489
+MEX,07239,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.5391,-99.143
+MEX,07240,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.5359,-99.14
+MEX,07248,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.5342,-99.1481
+MEX,07249,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.535,-99.1441
+MEX,07250,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.5041,-99.1159
+MEX,07259,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.5041,-99.1159
+MEX,07268,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.5328,-99.1536
+MEX,07269,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.5328,-99.1536
+MEX,07270,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.5261,-99.1511
+MEX,07279,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.5261,-99.1511
+MEX,07280,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.5264,-99.1429
+MEX,07290,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.5266,-99.1381
+MEX,07300,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.5039,-99.1325
+MEX,07310,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.5061,-99.1332
+MEX,07320,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.5119,-99.138
+MEX,07323,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.5063,-99.134
+MEX,07326,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.5103,-99.1362
+MEX,07327,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.5163,-99.1399
+MEX,07328,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.5123,-99.1377
+MEX,07329,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.5169,-99.1403
+MEX,07330,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.5169,-99.1403
+MEX,07340,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.5105,-99.1322
+MEX,07349,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.5105,-99.1322
+MEX,07350,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.5221,-99.1291
+MEX,07359,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.5126,-99.1235
+MEX,07360,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.5055,-99.1265
+MEX,07363,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.5045,-99.1261
+MEX,07369,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.5028,-99.1253
+MEX,07370,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.478,-99.1335
+MEX,07380,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.4765,-99.137
+MEX,07400,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.4888,-99.0978
+MEX,07410,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.5047,-99.1029
+MEX,07420,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.493,-99.0886
+MEX,07430,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.5003,-99.091
+MEX,07440,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.495,-99.0936
+MEX,07450,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.4809,-99.095
+MEX,07455,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.4809,-99.095
+MEX,07456,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.4809,-99.095
+MEX,07457,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.4809,-99.095
+MEX,07458,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.4809,-99.095
+MEX,07459,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.4809,-99.095
+MEX,07460,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.4788,-99.1023
+MEX,07469,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.4832,-99.1006
+MEX,07470,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.4891,-99.0944
+MEX,07480,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.473,-99.0968
+MEX,07500,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.4753,-99.0671
+MEX,07509,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.4753,-99.0671
+MEX,07510,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.5041,-99.1159
+MEX,07520,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.4842,-99.0761
+MEX,07530,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.4857,-99.0789
+MEX,07540,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.4892,-99.0855
+MEX,07548,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.4847,-99.0848
+MEX,07549,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.487,-99.0852
+MEX,07550,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.4834,-99.0715
+MEX,07560,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.4785,-99.0705
+MEX,07570,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.4662,-99.0588
+MEX,07580,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.4783,-99.0849
+MEX,07600,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.5189,-99.1584
+MEX,07620,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.5041,-99.1159
+MEX,07630,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.5258,-99.1651
+MEX,07640,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.5242,-99.1597
+MEX,07650,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.5166,-99.1496
+MEX,07660,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.4939,-99.1108
+MEX,07670,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.5203,-99.1541
+MEX,07680,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.5166,-99.1496
+MEX,07700,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.5103,-99.1508
+MEX,07707,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.5154,-99.1455
+MEX,07708,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.5102,-99.1446
+MEX,07709,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.512,-99.1469
+MEX,07720,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.4968,-99.1439
+MEX,07730,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.4904,-99.1408
+MEX,07738,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.492,-99.1409
+MEX,07739,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.4953,-99.1412
+MEX,07740,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.4877,-99.1417
+MEX,07750,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.5103,-99.1508
+MEX,07754,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.5103,-99.1508
+MEX,07755,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.5103,-99.1508
+MEX,07760,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.4822,-99.1467
+MEX,07770,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.4787,-99.143
+MEX,07780,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.473,-99.1434
+MEX,07790,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.5413,-99.1381
+MEX,07800,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.4506,-99.1129
+MEX,07810,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.5041,-99.1159
+MEX,07820,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.471,-99.1095
+MEX,07830,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.4506,-99.1129
+MEX,07838,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.4506,-99.1129
+MEX,07839,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.4506,-99.1129
+MEX,07840,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.4674,-99.1204
+MEX,07850,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.4667,-99.1076
+MEX,07858,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.5041,-99.1159
+MEX,07859,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.4614,-99.1064
+MEX,07860,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.465,-99.115
+MEX,07869,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.4623,-99.111
+MEX,07870,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.4702,-99.1329
+MEX,07880,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.4597,-99.1141
+MEX,07889,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.5041,-99.1159
+MEX,07890,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.4801,-99.1097
+MEX,07899,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.4527,-99.1048
+MEX,07900,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.448,-99.0582
+MEX,07909,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.448,-99.0582
+MEX,07910,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.4552,-99.0986
+MEX,07918,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.4552,-99.0986
+MEX,07919,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.4552,-99.0986
+MEX,07920,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.4866,-99.1006
+MEX,07930,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.4733,-99.0899
+MEX,07939,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.4737,-99.0916
+MEX,07940,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.4552,-99.0986
+MEX,07950,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.469,-99.0854
+MEX,07958,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.4718,-99.0876
+MEX,07960,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.4531,-99.0979
+MEX,07969,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.4531,-99.0979
+MEX,07970,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.4552,-99.0986
+MEX,07979,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.4552,-99.0986
+MEX,07980,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.4561,-99.0568
+MEX,07990,Gustavo A. Madero,"Ciudad de México, Distrito Federal",19.4528,-99.056
+MEX,08000,Iztacalco,"Ciudad de México, Distrito Federal",19.3927,-99.0948
+MEX,08009,Iztacalco,"Ciudad de México, Distrito Federal",19.3927,-99.0948
+MEX,08010,Iztacalco,"Ciudad de México, Distrito Federal",19.3875,-99.0963
+MEX,08020,Iztacalco,"Ciudad de México, Distrito Federal",19.3875,-99.0963
+MEX,08029,Iztacalco,"Ciudad de México, Distrito Federal",19.3875,-99.0963
+MEX,08030,Iztacalco,"Ciudad de México, Distrito Federal",19.3875,-99.0963
+MEX,08040,Iztacalco,"Ciudad de México, Distrito Federal",19.3823,-99.0978
+MEX,08100,Iztacalco,"Ciudad de México, Distrito Federal",19.4121,-99.0643
+MEX,08160,Iztacalco,"Ciudad de México, Distrito Federal",19.3002,-99.0995
+MEX,08170,Iztacalco,"Ciudad de México, Distrito Federal",19.3969,-99.0943
+MEX,08180,Iztacalco,"Ciudad de México, Distrito Federal",19.3002,-99.0995
+MEX,08188,Iztacalco,"Ciudad de México, Distrito Federal",19.3002,-99.0995
+MEX,08189,Iztacalco,"Ciudad de México, Distrito Federal",19.3002,-99.0995
+MEX,08200,Iztacalco,"Ciudad de México, Distrito Federal",19.4006,-99.1319
+MEX,08210,Iztacalco,"Ciudad de México, Distrito Federal",19.3985,-99.1261
+MEX,08220,Iztacalco,"Ciudad de México, Distrito Federal",19.3969,-99.0943
+MEX,08230,Iztacalco,"Ciudad de México, Distrito Federal",19.3956,-99.125
+MEX,08240,Iztacalco,"Ciudad de México, Distrito Federal",19.3919,-99.1251
+MEX,08300,Iztacalco,"Ciudad de México, Distrito Federal",19.4016,-99.1218
+MEX,08310,Iztacalco,"Ciudad de México, Distrito Federal",19.3969,-99.0943
+MEX,08320,Iztacalco,"Ciudad de México, Distrito Federal",19.4471,-99.1119
+MEX,08400,Iztacalco,"Ciudad de México, Distrito Federal",19.4024,-99.0971
+MEX,08420,Iztacalco,"Ciudad de México, Distrito Federal",19.4047,-99.0807
+MEX,08500,Iztacalco,"Ciudad de México, Distrito Federal",19.4,-99.0667
+MEX,08510,Iztacalco,"Ciudad de México, Distrito Federal",19.393,-99.0855
+MEX,08520,Iztacalco,"Ciudad de México, Distrito Federal",19.3965,-99.0761
+MEX,08560,Iztacalco,"Ciudad de México, Distrito Federal",19.3965,-99.0761
+MEX,08580,Iztacalco,"Ciudad de México, Distrito Federal",19.3965,-99.0761
+MEX,08600,Iztacalco,"Ciudad de México, Distrito Federal",19.3896,-99.1195
+MEX,08610,Iztacalco,"Ciudad de México, Distrito Federal",19.3956,-99.122
+MEX,08619,Iztacalco,"Ciudad de México, Distrito Federal",19.3956,-99.122
+MEX,08620,Iztacalco,"Ciudad de México, Distrito Federal",19.3961,-99.117
+MEX,08650,Iztacalco,"Ciudad de México, Distrito Federal",19.3918,-99.1179
+MEX,08700,Iztacalco,"Ciudad de México, Distrito Federal",19.392,-99.1089
+MEX,08710,Iztacalco,"Ciudad de México, Distrito Federal",19.396,-99.1117
+MEX,08720,Iztacalco,"Ciudad de México, Distrito Federal",19.3951,-99.105
+MEX,08730,Iztacalco,"Ciudad de México, Distrito Federal",19.3944,-99.1085
+MEX,08760,Iztacalco,"Ciudad de México, Distrito Federal",19.3944,-99.1085
+MEX,08770,Iztacalco,"Ciudad de México, Distrito Federal",19.3944,-99.1085
+MEX,08800,Iztacalco,"Ciudad de México, Distrito Federal",19.3884,-99.1252
+MEX,08810,Iztacalco,"Ciudad de México, Distrito Federal",19.3885,-99.1311
+MEX,08820,Iztacalco,"Ciudad de México, Distrito Federal",19.3841,-99.1284
+MEX,08830,Iztacalco,"Ciudad de México, Distrito Federal",19.3817,-99.129
+MEX,08840,Iztacalco,"Ciudad de México, Distrito Federal",19.3776,-99.1282
+MEX,08900,Iztacalco,"Ciudad de México, Distrito Federal",19.3867,-99.1197
+MEX,08910,Iztacalco,"Ciudad de México, Distrito Federal",19.3882,-99.1204
+MEX,08920,Iztacalco,"Ciudad de México, Distrito Federal",19.3877,-99.1172
+MEX,08930,Iztacalco,"Ciudad de México, Distrito Federal",19.3843,-99.1215
+MEX,09000,Iztapalapa,"Ciudad de México, Distrito Federal",19.3648,-99.0906
+MEX,09009,Iztapalapa,"Ciudad de México, Distrito Federal",19.3874,-99.1213
+MEX,09010,Iztapalapa,"Ciudad de México, Distrito Federal",19.3884,-99.0823
+MEX,09020,Iztapalapa,"Ciudad de México, Distrito Federal",19.3748,-99.115
+MEX,09030,Iztapalapa,"Ciudad de México, Distrito Federal",19.3862,-99.0871
+MEX,09040,Iztapalapa,"Ciudad de México, Distrito Federal",19.3748,-99.115
+MEX,09060,Iztapalapa,"Ciudad de México, Distrito Federal",19.365,-99.1152
+MEX,09070,Iztapalapa,"Ciudad de México, Distrito Federal",19.3636,-99.1072
+MEX,09080,Iztapalapa,"Ciudad de México, Distrito Federal",19.3593,-99.1254
+MEX,09089,Iztapalapa,"Ciudad de México, Distrito Federal",19.3667,-99.1167
+MEX,09090,Iztapalapa,"Ciudad de México, Distrito Federal",19.3615,-99.1183
+MEX,09099,Iztapalapa,"Ciudad de México, Distrito Federal",19.357,-99.1204
+MEX,09100,Iztapalapa,"Ciudad de México, Distrito Federal",19.3919,-99.0435
+MEX,09110,Iztapalapa,"Ciudad de México, Distrito Federal",19.3901,-99.0388
+MEX,09120,Iztapalapa,"Ciudad de México, Distrito Federal",19.3878,-99.0326
+MEX,09130,Iztapalapa,"Ciudad de México, Distrito Federal",19.3834,-99.0272
+MEX,09140,Iztapalapa,"Ciudad de México, Distrito Federal",19.3773,-99.0159
+MEX,09150,Iztapalapa,"Ciudad de México, Distrito Federal",19.3657,-99.0549
+MEX,09160,Iztapalapa,"Ciudad de México, Distrito Federal",19.3068,-99.1429
+MEX,09170,Iztapalapa,"Ciudad de México, Distrito Federal",19.3657,-99.0549
+MEX,09180,Iztapalapa,"Ciudad de México, Distrito Federal",19.3649,-98.9973
+MEX,09200,Iztapalapa,"Ciudad de México, Distrito Federal",19.3545,-99.1215
+MEX,09207,Iztapalapa,"Ciudad de México, Distrito Federal",19.3545,-99.1215
+MEX,09208,Iztapalapa,"Ciudad de México, Distrito Federal",19.3556,-99.0907
+MEX,09209,Iztapalapa,"Ciudad de México, Distrito Federal",19.3683,-99.0494
+MEX,09210,Iztapalapa,"Ciudad de México, Distrito Federal",19.392,-99.0544
+MEX,09219,Iztapalapa,"Ciudad de México, Distrito Federal",19.386,-99.0528
+MEX,09220,Iztapalapa,"Ciudad de México, Distrito Federal",19.4121,-99.0937
+MEX,09226,Iztapalapa,"Ciudad de México, Distrito Federal",19.4121,-99.0937
+MEX,09227,Iztapalapa,"Ciudad de México, Distrito Federal",19.4121,-99.0937
+MEX,09228,Iztapalapa,"Ciudad de México, Distrito Federal",19.3491,-99.0569
+MEX,09229,Iztapalapa,"Ciudad de México, Distrito Federal",19.4121,-99.0937
+MEX,09230,Iztapalapa,"Ciudad de México, Distrito Federal",19.3674,-99.0503
+MEX,09233,Iztapalapa,"Ciudad de México, Distrito Federal",19.3696,-99.0722
+MEX,09239,Iztapalapa,"Ciudad de México, Distrito Federal",19.3689,-99.0281
+MEX,09240,Iztapalapa,"Ciudad de México, Distrito Federal",19.3491,-99.0569
+MEX,09249,Iztapalapa,"Ciudad de México, Distrito Federal",19.3578,-99.0679
+MEX,09250,Iztapalapa,"Ciudad de México, Distrito Federal",19.351,-99.0606
+MEX,09260,Iztapalapa,"Ciudad de México, Distrito Federal",19.386,-99.0928
+MEX,09270,Iztapalapa,"Ciudad de México, Distrito Federal",19.3466,-99.0554
+MEX,09280,Iztapalapa,"Ciudad de México, Distrito Federal",19.3455,-99.0516
+MEX,09290,Iztapalapa,"Ciudad de México, Distrito Federal",19.3837,-99.0648
+MEX,09300,Iztapalapa,"Ciudad de México, Distrito Federal",19.3696,-99.0753
+MEX,09310,Iztapalapa,"Ciudad de México, Distrito Federal",19.3814,-99.0891
+MEX,09319,Iztapalapa,"Ciudad de México, Distrito Federal",19.3814,-99.0891
+MEX,09320,Iztapalapa,"Ciudad de México, Distrito Federal",19.3735,-99.0658
+MEX,09330,Iztapalapa,"Ciudad de México, Distrito Federal",19.3491,-99.0569
+MEX,09350,Iztapalapa,"Ciudad de México, Distrito Federal",19.3578,-99.0679
+MEX,09359,Iztapalapa,"Ciudad de México, Distrito Federal",19.3571,-99.0687
+MEX,09360,Iztapalapa,"Ciudad de México, Distrito Federal",19.3621,-99.0449
+MEX,09366,Iztapalapa,"Ciudad de México, Distrito Federal",19.4039,-99.0661
+MEX,09368,Iztapalapa,"Ciudad de México, Distrito Federal",19.4039,-99.0661
+MEX,09369,Iztapalapa,"Ciudad de México, Distrito Federal",19.4039,-99.0661
+MEX,09400,Iztapalapa,"Ciudad de México, Distrito Federal",19.3724,-99.1185
+MEX,09410,Iztapalapa,"Ciudad de México, Distrito Federal",19.3749,-99.1055
+MEX,09420,Iztapalapa,"Ciudad de México, Distrito Federal",19.3783,-99.105
+MEX,09429,Iztapalapa,"Ciudad de México, Distrito Federal",19.3796,-99.1086
+MEX,09430,Iztapalapa,"Ciudad de México, Distrito Federal",19.3792,-99.1181
+MEX,09437,Iztapalapa,"Ciudad de México, Distrito Federal",19.3785,-99.1176
+MEX,09438,Iztapalapa,"Ciudad de México, Distrito Federal",19.3771,-99.1165
+MEX,09440,Iztapalapa,"Ciudad de México, Distrito Federal",19.3719,-99.131
+MEX,09450,Iztapalapa,"Ciudad de México, Distrito Federal",19.3628,-99.1371
+MEX,09460,Iztapalapa,"Ciudad de México, Distrito Federal",19.3617,-99.1348
+MEX,09470,Iztapalapa,"Ciudad de México, Distrito Federal",19.3611,-99.1323
+MEX,09479,Iztapalapa,"Ciudad de México, Distrito Federal",19.3649,-99.1298
+MEX,09480,Iztapalapa,"Ciudad de México, Distrito Federal",19.3578,-99.1361
+MEX,09500,Iztapalapa,"Ciudad de México, Distrito Federal",19.3502,-99.0223
+MEX,09510,Iztapalapa,"Ciudad de México, Distrito Federal",19.3599,-99.0079
+MEX,09519,Iztapalapa,"Ciudad de México, Distrito Federal",19.3599,-99.0079
+MEX,09520,Iztapalapa,"Ciudad de México, Distrito Federal",19.3636,-99.0155
+MEX,09530,Iztapalapa,"Ciudad de México, Distrito Federal",19.3685,-99.0193
+MEX,09550,Iztapalapa,"Ciudad de México, Distrito Federal",19.3547,-99.021
+MEX,09560,Iztapalapa,"Ciudad de México, Distrito Federal",19.3405,-99.0326
+MEX,09570,Iztapalapa,"Ciudad de México, Distrito Federal",19.3502,-99.0223
+MEX,09577,Iztapalapa,"Ciudad de México, Distrito Federal",19.3015,-99.0639
+MEX,09578,Iztapalapa,"Ciudad de México, Distrito Federal",19.3661,-99.0347
+MEX,09579,Iztapalapa,"Ciudad de México, Distrito Federal",19.2687,-99.0958
+MEX,09600,Iztapalapa,"Ciudad de México, Distrito Federal",19.3533,-99.0039
+MEX,09608,Iztapalapa,"Ciudad de México, Distrito Federal",19.3533,-99.0039
+MEX,09609,Iztapalapa,"Ciudad de México, Distrito Federal",19.3533,-99.0039
+MEX,09620,Iztapalapa,"Ciudad de México, Distrito Federal",19.3532,-98.9979
+MEX,09630,Iztapalapa,"Ciudad de México, Distrito Federal",19.3366,-98.98
+MEX,09637,Iztapalapa,"Ciudad de México, Distrito Federal",19.3366,-98.98
+MEX,09638,Iztapalapa,"Ciudad de México, Distrito Federal",19.3366,-98.98
+MEX,09640,Iztapalapa,"Ciudad de México, Distrito Federal",19.3413,-99.032
+MEX,09648,Iztapalapa,"Ciudad de México, Distrito Federal",19.3584,-99.089
+MEX,09660,Iztapalapa,"Ciudad de México, Distrito Federal",19.3428,-99.0229
+MEX,09670,Iztapalapa,"Ciudad de México, Distrito Federal",19.3346,-99.0263
+MEX,09680,Iztapalapa,"Ciudad de México, Distrito Federal",19.3292,-99.0211
+MEX,09689,Iztapalapa,"Ciudad de México, Distrito Federal",19.3292,-99.0211
+MEX,09690,Iztapalapa,"Ciudad de México, Distrito Federal",19.3392,-99.0531
+MEX,09696,Iztapalapa,"Ciudad de México, Distrito Federal",19.3392,-99.0531
+MEX,09698,Iztapalapa,"Ciudad de México, Distrito Federal",19.3392,-99.0531
+MEX,09700,Iztapalapa,"Ciudad de México, Distrito Federal",19.3556,-99.0603
+MEX,09704,Iztapalapa,"Ciudad de México, Distrito Federal",19.276,-99.0876
+MEX,09705,Iztapalapa,"Ciudad de México, Distrito Federal",19.354,-99.0817
+MEX,09706,Iztapalapa,"Ciudad de México, Distrito Federal",19.3243,-99.0339
+MEX,09708,Iztapalapa,"Ciudad de México, Distrito Federal",19.3248,-99.0482
+MEX,09709,Iztapalapa,"Ciudad de México, Distrito Federal",19.3325,-99.0358
+MEX,09710,Iztapalapa,"Ciudad de México, Distrito Federal",19.3413,-99.0607
+MEX,09719,Iztapalapa,"Ciudad de México, Distrito Federal",19.3212,-99.1022
+MEX,09720,Iztapalapa,"Ciudad de México, Distrito Federal",19.3668,-99.1307
+MEX,09730,Iztapalapa,"Ciudad de México, Distrito Federal",19.3391,-99.0317
+MEX,09740,Iztapalapa,"Ciudad de México, Distrito Federal",19.3317,-99.0609
+MEX,09750,Iztapalapa,"Ciudad de México, Distrito Federal",19.3334,-99.0523
+MEX,09759,Iztapalapa,"Ciudad de México, Distrito Federal",19.3334,-99.0523
+MEX,09760,Iztapalapa,"Ciudad de México, Distrito Federal",19.3252,-99.0569
+MEX,09767,Iztapalapa,"Ciudad de México, Distrito Federal",19.3237,-99.0543
+MEX,09768,Iztapalapa,"Ciudad de México, Distrito Federal",19.3237,-99.0543
+MEX,09769,Iztapalapa,"Ciudad de México, Distrito Federal",19.3221,-99.0518
+MEX,09770,Iztapalapa,"Ciudad de México, Distrito Federal",19.3274,-99.0653
+MEX,09779,Iztapalapa,"Ciudad de México, Distrito Federal",19.3274,-99.0653
+MEX,09780,Iztapalapa,"Ciudad de México, Distrito Federal",19.3428,-99.0709
+MEX,09789,Iztapalapa,"Ciudad de México, Distrito Federal",19.3235,-99.0675
+MEX,09790,Iztapalapa,"Ciudad de México, Distrito Federal",19.3116,-99.0679
+MEX,09800,Iztapalapa,"Ciudad de México, Distrito Federal",19.3466,-99.104
+MEX,09809,Iztapalapa,"Ciudad de México, Distrito Federal",19.3413,-99.1041
+MEX,09810,Iztapalapa,"Ciudad de México, Distrito Federal",19.353,-99.1121
+MEX,09819,Iztapalapa,"Ciudad de México, Distrito Federal",19.3477,-99.1148
+MEX,09820,Iztapalapa,"Ciudad de México, Distrito Federal",19.3525,-99.0991
+MEX,09828,Iztapalapa,"Ciudad de México, Distrito Federal",19.3537,-99.1009
+MEX,09829,Iztapalapa,"Ciudad de México, Distrito Federal",19.3519,-99.0956
+MEX,09830,Iztapalapa,"Ciudad de México, Distrito Federal",19.3471,-99.0802
+MEX,09836,Iztapalapa,"Ciudad de México, Distrito Federal",19.3491,-99.0569
+MEX,09837,Iztapalapa,"Ciudad de México, Distrito Federal",19.3609,-99.1088
+MEX,09838,Iztapalapa,"Ciudad de México, Distrito Federal",19.3535,-99.0859
+MEX,09839,Iztapalapa,"Ciudad de México, Distrito Federal",19.3366,-99.0674
+MEX,09840,Iztapalapa,"Ciudad de México, Distrito Federal",19.3454,-99.1097
+MEX,09849,Iztapalapa,"Ciudad de México, Distrito Federal",19.3454,-99.1097
+MEX,09850,Iztapalapa,"Ciudad de México, Distrito Federal",19.3369,-99.0893
+MEX,09856,Iztapalapa,"Ciudad de México, Distrito Federal",19.3505,-99.0894
+MEX,09857,Iztapalapa,"Ciudad de México, Distrito Federal",19.3116,-99.0679
+MEX,09858,Iztapalapa,"Ciudad de México, Distrito Federal",19.3401,-99.1114
+MEX,09859,Iztapalapa,"Ciudad de México, Distrito Federal",19.3712,-99.1317
+MEX,09860,Iztapalapa,"Ciudad de México, Distrito Federal",19.3459,-99.086
+MEX,09864,Iztapalapa,"Ciudad de México, Distrito Federal",19.3723,-99.1277
+MEX,09868,Iztapalapa,"Ciudad de México, Distrito Federal",19.3285,-99.0698
+MEX,09869,Iztapalapa,"Ciudad de México, Distrito Federal",19.3723,-99.1277
+MEX,09870,Iztapalapa,"Ciudad de México, Distrito Federal",19.3352,-99.1038
+MEX,09880,Iztapalapa,"Ciudad de México, Distrito Federal",19.3291,-99.0733
+MEX,09889,Iztapalapa,"Ciudad de México, Distrito Federal",19.3291,-99.0733
+MEX,09890,Iztapalapa,"Ciudad de México, Distrito Federal",19.3164,-99.0914
+MEX,09897,Iztapalapa,"Ciudad de México, Distrito Federal",19.3164,-99.0914
+MEX,09899,Iztapalapa,"Ciudad de México, Distrito Federal",19.3164,-99.0914
+MEX,09900,Iztapalapa,"Ciudad de México, Distrito Federal",19.3304,-99.0624
+MEX,09910,Iztapalapa,"Ciudad de México, Distrito Federal",19.4284,-99.1058
+MEX,09920,Iztapalapa,"Ciudad de México, Distrito Federal",19.306,-99.0818
+MEX,09930,Iztapalapa,"Ciudad de México, Distrito Federal",19.3491,-99.0569
+MEX,09940,Iztapalapa,"Ciudad de México, Distrito Federal",19.2963,-99.0736
+MEX,09960,Iztapalapa,"Ciudad de México, Distrito Federal",19.3124,-99.0715
+MEX,09969,Iztapalapa,"Ciudad de México, Distrito Federal",19.3087,-99.0961
+MEX,09970,Iztapalapa,"Ciudad de México, Distrito Federal",19.2995,-99.0784
+MEX,09979,Iztapalapa,"Ciudad de México, Distrito Federal",19.3491,-99.0569
 MEX,10000,La Magdalena Contreras,"Ciudad de México, Distrito Federal",19.3155,-99.2406
 MEX,10010,La Magdalena Contreras,"Ciudad de México, Distrito Federal",19.269,-99.2684
 MEX,10020,La Magdalena Contreras,"Ciudad de México, Distrito Federal",19.269,-99.2684
@@ -5715,142 +5716,142 @@ MEX,12920,Milpa Alta,"Ciudad de México, Distrito Federal",19.1694,-99.0257
 MEX,12930,Milpa Alta,"Ciudad de México, Distrito Federal",19.1395,-99.0511
 MEX,12940,Milpa Alta,"Ciudad de México, Distrito Federal",19.2083,-99.06
 MEX,12950,Milpa Alta,"Ciudad de México, Distrito Federal",19.2565,-99.0679
-MEX,1000,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3587,-99.2033
-MEX,1010,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3569,-99.21
-MEX,1020,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.5161,-99.1419
-MEX,1029,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3362,-99.2468
-MEX,1030,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3567,-99.1784
-MEX,1040,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3556,-99.1918
-MEX,1048,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3546,-99.1944
-MEX,1049,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3536,-99.1969
-MEX,1050,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3619,-99.1904
-MEX,1060,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3469,-99.1913
-MEX,1070,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3442,-99.1869
-MEX,1080,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3354,-99.2034
-MEX,1089,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3372,-99.2036
-MEX,1090,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3399,-99.198
-MEX,1100,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3934,-99.2036
-MEX,1109,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3362,-99.2468
-MEX,1110,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3962,-99.211
-MEX,1120,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3992,-99.1999
-MEX,1125,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3992,-99.2
-MEX,1130,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3936,-99.2069
-MEX,1139,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3959,-99.204
-MEX,1140,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3967,-99.1949
-MEX,1150,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.39,-99.1976
-MEX,1159,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.39,-99.1976
-MEX,1160,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3868,-99.2102
-MEX,1170,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3886,-99.2066
-MEX,1180,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.386,-99.1935
-MEX,1184,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.386,-99.1935
-MEX,1200,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3866,-99.2163
-MEX,1210,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3741,-99.2563
-MEX,1219,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3867,-99.241
-MEX,1220,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3807,-99.2176
-MEX,1230,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3795,-99.2399
-MEX,1239,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3362,-99.2468
-MEX,1240,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3811,-99.2382
-MEX,1250,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3806,-99.2366
-MEX,1259,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.38,-99.2324
-MEX,1260,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3819,-99.229
-MEX,1269,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3819,-99.229
-MEX,1270,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3805,-99.2149
-MEX,1275,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3814,-99.2155
-MEX,1276,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3362,-99.2468
-MEX,1278,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3814,-99.2155
-MEX,1279,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.385,-99.2179
-MEX,1280,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3712,-99.2196
-MEX,1285,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3804,-99.2086
-MEX,1289,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3972,-99.1899
-MEX,1290,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3738,-99.2256
-MEX,1296,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3779,-99.2315
-MEX,1298,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3758,-99.2286
-MEX,1299,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3758,-99.2286
-MEX,1310,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3691,-99.2581
-MEX,1320,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3691,-99.2581
-MEX,1330,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3704,-99.2675
-MEX,1340,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3691,-99.2581
-MEX,1376,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3741,-99.2563
-MEX,1377,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3684,-99.2534
-MEX,1379,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3627,-99.2505
-MEX,1389,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3691,-99.2581
-MEX,1400,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3745,-99.212
-MEX,1407,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3709,-99.2243
-MEX,1408,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3727,-99.2181
-MEX,1410,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.363,-99.2065
-MEX,1419,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3631,-99.2065
-MEX,1420,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3811,-99.1949
-MEX,1430,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.366,-99.2268
-MEX,1440,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3715,-99.207
-MEX,1450,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3701,-99.2101
-MEX,1460,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.376,-99.1954
-MEX,1470,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.374,-99.2011
-MEX,1480,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3673,-99.2042
-MEX,1490,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3715,-99.207
-MEX,1500,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.4074,-99.2219
-MEX,1509,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.4786,-99.197
-MEX,1510,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3515,-99.2449
-MEX,1520,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3721,-99.2292
-MEX,1530,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3623,-99.247
-MEX,1537,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3653,-99.2456
-MEX,1538,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.362,-99.2516
-MEX,1539,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3594,-99.2439
-MEX,1540,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3707,-99.2165
-MEX,1548,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3558,-99.2425
-MEX,1549,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3984,-99.1862
-MEX,1550,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3614,-99.2348
-MEX,1560,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3611,-99.2334
-MEX,1566,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3612,-99.2338
-MEX,1567,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3614,-99.2348
-MEX,1569,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3612,-99.2338
-MEX,1580,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3503,-99.2491
-MEX,1585,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3503,-99.2491
-MEX,1586,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3503,-99.2491
-MEX,1587,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3503,-99.2491
-MEX,1588,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3503,-99.2491
-MEX,1589,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3503,-99.2491
-MEX,1590,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3543,-99.245
-MEX,1600,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3654,-99.1964
-MEX,1610,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3635,-99.2208
-MEX,1618,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3622,-99.2266
-MEX,1619,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3588,-99.2251
-MEX,1620,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3477,-99.2544
-MEX,1630,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3566,-99.2302
-MEX,1640,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3579,-99.2292
-MEX,1645,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3585,-99.2276
-MEX,1650,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3517,-99.241
-MEX,1700,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3407,-99.2286
-MEX,1708,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3407,-99.2286
-MEX,1710,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3479,-99.2232
-MEX,1720,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3425,-99.2418
-MEX,1729,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3399,-99.2423
-MEX,1730,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3464,-99.2331
-MEX,1740,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3491,-99.2265
-MEX,1750,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3578,-99.2184
-MEX,1759,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3578,-99.2184
-MEX,1760,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3496,-99.2036
-MEX,1770,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3348,-99.2342
-MEX,1780,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3386,-99.2183
-MEX,1788,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3672,-99.2082
-MEX,1789,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3959,-99.1981
-MEX,1790,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3439,-99.2061
-MEX,1800,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3324,-99.2716
-MEX,1807,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3324,-99.2716
-MEX,1810,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3394,-99.2561
-MEX,1820,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3456,-99.2549
-MEX,1830,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3275,-99.2935
-MEX,1840,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3303,-99.2484
-MEX,1849,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3318,-99.2524
-MEX,1856,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3219,-99.2694
-MEX,1857,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3219,-99.2694
-MEX,1859,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3219,-99.2694
-MEX,1860,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3211,-99.2625
-MEX,1863,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3081,-99.2733
-MEX,1870,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3304,-99.2637
-MEX,1900,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3197,-99.2099
-MEX,1904,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3177,-99.2233
-MEX,1940,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3187,-99.2166
-MEX,1990,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3187,-99.2166
+MEX,01000,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3587,-99.2033
+MEX,01010,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3569,-99.21
+MEX,01020,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.5161,-99.1419
+MEX,01029,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3362,-99.2468
+MEX,01030,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3567,-99.1784
+MEX,01040,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3556,-99.1918
+MEX,01048,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3546,-99.1944
+MEX,01049,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3536,-99.1969
+MEX,01050,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3619,-99.1904
+MEX,01060,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3469,-99.1913
+MEX,01070,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3442,-99.1869
+MEX,01080,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3354,-99.2034
+MEX,01089,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3372,-99.2036
+MEX,01090,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3399,-99.198
+MEX,01100,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3934,-99.2036
+MEX,01109,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3362,-99.2468
+MEX,01110,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3962,-99.211
+MEX,01120,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3992,-99.1999
+MEX,01125,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3992,-99.2
+MEX,01130,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3936,-99.2069
+MEX,01139,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3959,-99.204
+MEX,01140,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3967,-99.1949
+MEX,01150,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.39,-99.1976
+MEX,01159,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.39,-99.1976
+MEX,01160,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3868,-99.2102
+MEX,01170,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3886,-99.2066
+MEX,01180,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.386,-99.1935
+MEX,01184,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.386,-99.1935
+MEX,01200,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3866,-99.2163
+MEX,01210,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3741,-99.2563
+MEX,01219,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3867,-99.241
+MEX,01220,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3807,-99.2176
+MEX,01230,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3795,-99.2399
+MEX,01239,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3362,-99.2468
+MEX,01240,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3811,-99.2382
+MEX,01250,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3806,-99.2366
+MEX,01259,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.38,-99.2324
+MEX,01260,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3819,-99.229
+MEX,01269,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3819,-99.229
+MEX,01270,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3805,-99.2149
+MEX,01275,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3814,-99.2155
+MEX,01276,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3362,-99.2468
+MEX,01278,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3814,-99.2155
+MEX,01279,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.385,-99.2179
+MEX,01280,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3712,-99.2196
+MEX,01285,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3804,-99.2086
+MEX,01289,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3972,-99.1899
+MEX,01290,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3738,-99.2256
+MEX,01296,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3779,-99.2315
+MEX,01298,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3758,-99.2286
+MEX,01299,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3758,-99.2286
+MEX,01310,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3691,-99.2581
+MEX,01320,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3691,-99.2581
+MEX,01330,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3704,-99.2675
+MEX,01340,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3691,-99.2581
+MEX,01376,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3741,-99.2563
+MEX,01377,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3684,-99.2534
+MEX,01379,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3627,-99.2505
+MEX,01389,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3691,-99.2581
+MEX,01400,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3745,-99.212
+MEX,01407,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3709,-99.2243
+MEX,01408,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3727,-99.2181
+MEX,01410,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.363,-99.2065
+MEX,01419,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3631,-99.2065
+MEX,01420,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3811,-99.1949
+MEX,01430,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.366,-99.2268
+MEX,01440,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3715,-99.207
+MEX,01450,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3701,-99.2101
+MEX,01460,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.376,-99.1954
+MEX,01470,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.374,-99.2011
+MEX,01480,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3673,-99.2042
+MEX,01490,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3715,-99.207
+MEX,01500,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.4074,-99.2219
+MEX,01509,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.4786,-99.197
+MEX,01510,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3515,-99.2449
+MEX,01520,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3721,-99.2292
+MEX,01530,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3623,-99.247
+MEX,01537,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3653,-99.2456
+MEX,01538,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.362,-99.2516
+MEX,01539,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3594,-99.2439
+MEX,01540,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3707,-99.2165
+MEX,01548,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3558,-99.2425
+MEX,01549,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3984,-99.1862
+MEX,01550,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3614,-99.2348
+MEX,01560,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3611,-99.2334
+MEX,01566,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3612,-99.2338
+MEX,01567,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3614,-99.2348
+MEX,01569,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3612,-99.2338
+MEX,01580,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3503,-99.2491
+MEX,01585,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3503,-99.2491
+MEX,01586,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3503,-99.2491
+MEX,01587,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3503,-99.2491
+MEX,01588,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3503,-99.2491
+MEX,01589,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3503,-99.2491
+MEX,01590,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3543,-99.245
+MEX,01600,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3654,-99.1964
+MEX,01610,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3635,-99.2208
+MEX,01618,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3622,-99.2266
+MEX,01619,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3588,-99.2251
+MEX,01620,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3477,-99.2544
+MEX,01630,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3566,-99.2302
+MEX,01640,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3579,-99.2292
+MEX,01645,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3585,-99.2276
+MEX,01650,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3517,-99.241
+MEX,01700,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3407,-99.2286
+MEX,01708,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3407,-99.2286
+MEX,01710,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3479,-99.2232
+MEX,01720,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3425,-99.2418
+MEX,01729,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3399,-99.2423
+MEX,01730,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3464,-99.2331
+MEX,01740,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3491,-99.2265
+MEX,01750,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3578,-99.2184
+MEX,01759,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3578,-99.2184
+MEX,01760,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3496,-99.2036
+MEX,01770,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3348,-99.2342
+MEX,01780,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3386,-99.2183
+MEX,01788,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3672,-99.2082
+MEX,01789,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3959,-99.1981
+MEX,01790,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3439,-99.2061
+MEX,01800,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3324,-99.2716
+MEX,01807,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3324,-99.2716
+MEX,01810,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3394,-99.2561
+MEX,01820,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3456,-99.2549
+MEX,01830,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3275,-99.2935
+MEX,01840,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3303,-99.2484
+MEX,01849,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3318,-99.2524
+MEX,01856,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3219,-99.2694
+MEX,01857,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3219,-99.2694
+MEX,01859,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3219,-99.2694
+MEX,01860,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3211,-99.2625
+MEX,01863,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3081,-99.2733
+MEX,01870,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3304,-99.2637
+MEX,01900,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3197,-99.2099
+MEX,01904,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3177,-99.2233
+MEX,01940,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3187,-99.2166
+MEX,01990,Álvaro Obregón,"Ciudad de México, Distrito Federal",19.3187,-99.2166
 MEX,13000,Tláhuac,"Ciudad de México, Distrito Federal",19.277,-99.0028
 MEX,13009,Tláhuac,"Ciudad de México, Distrito Federal",19.3896,-99.1195
 MEX,13010,Tláhuac,"Ciudad de México, Distrito Federal",19.277,-99.0028
@@ -6168,137 +6169,137 @@ MEX,16900,Xochimilco,"Ciudad de México, Distrito Federal",19.1974,-99.1223
 MEX,16908,Xochimilco,"Ciudad de México, Distrito Federal",19.2453,-99.0904
 MEX,16909,Xochimilco,"Ciudad de México, Distrito Federal",19.196,-99.0902
 MEX,16910,Xochimilco,"Ciudad de México, Distrito Federal",19.2453,-99.0904
-MEX,3000,Benito Juárez,"Ciudad de México, Distrito Federal",19.4026,-99.1547
-MEX,3010,Benito Juárez,"Ciudad de México, Distrito Federal",19.4029,-99.1477
-MEX,3020,Benito Juárez,"Ciudad de México, Distrito Federal",19.4004,-99.1448
-MEX,3023,Benito Juárez,"Ciudad de México, Distrito Federal",19.3925,-99.1495
-MEX,3028,Benito Juárez,"Ciudad de México, Distrito Federal",19.3806,-99.1611
-MEX,3100,Benito Juárez,"Ciudad de México, Distrito Federal",19.3831,-99.1743
-MEX,3103,Benito Juárez,"Ciudad de México, Distrito Federal",19.3654,-99.1446
-MEX,3104,Benito Juárez,"Ciudad de México, Distrito Federal",19.3806,-99.1611
-MEX,3109,Benito Juárez,"Ciudad de México, Distrito Federal",19.3654,-99.1446
-MEX,3199,Benito Juárez,"Ciudad de México, Distrito Federal",19.3654,-99.1446
-MEX,3200,Benito Juárez,"Ciudad de México, Distrito Federal",19.3833,-99.1667
-MEX,3220,Benito Juárez,"Ciudad de México, Distrito Federal",19.372,-99.1737
-MEX,3229,Benito Juárez,"Ciudad de México, Distrito Federal",19.372,-99.1737
-MEX,3230,Benito Juárez,"Ciudad de México, Distrito Federal",19.3685,-99.179
-MEX,3240,Benito Juárez,"Ciudad de México, Distrito Federal",19.3642,-99.1754
-MEX,3300,Benito Juárez,"Ciudad de México, Distrito Federal",19.3663,-99.1622
-MEX,3303,Benito Juárez,"Ciudad de México, Distrito Federal",19.3663,-99.1622
-MEX,3310,Benito Juárez,"Ciudad de México, Distrito Federal",19.3686,-99.1622
-MEX,3313,Benito Juárez,"Ciudad de México, Distrito Federal",19.3686,-99.1622
-MEX,3319,Benito Juárez,"Ciudad de México, Distrito Federal",19.3686,-99.1622
-MEX,3320,Benito Juárez,"Ciudad de México, Distrito Federal",19.3684,-99.1576
-MEX,3330,Benito Juárez,"Ciudad de México, Distrito Federal",19.362,-99.1668
-MEX,3340,Benito Juárez,"Ciudad de México, Distrito Federal",19.3663,-99.1622
-MEX,3400,Benito Juárez,"Ciudad de México, Distrito Federal",19.3975,-99.1422
-MEX,3410,Benito Juárez,"Ciudad de México, Distrito Federal",19.3905,-99.1415
-MEX,3420,Benito Juárez,"Ciudad de México, Distrito Federal",19.3897,-99.1449
-MEX,3430,Benito Juárez,"Ciudad de México, Distrito Federal",19.3876,-99.1409
-MEX,3440,Benito Juárez,"Ciudad de México, Distrito Federal",19.3913,-99.1424
-MEX,3500,Benito Juárez,"Ciudad de México, Distrito Federal",19.3812,-99.1368
-MEX,3510,Benito Juárez,"Ciudad de México, Distrito Federal",19.3948,-99.135
-MEX,3520,Benito Juárez,"Ciudad de México, Distrito Federal",19.3902,-99.1359
-MEX,3530,Benito Juárez,"Ciudad de México, Distrito Federal",19.3874,-99.1363
-MEX,3540,Benito Juárez,"Ciudad de México, Distrito Federal",19.3757,-99.1381
-MEX,3550,Benito Juárez,"Ciudad de México, Distrito Federal",19.3729,-99.1361
-MEX,3560,Benito Juárez,"Ciudad de México, Distrito Federal",19.3705,-99.1394
-MEX,3570,Benito Juárez,"Ciudad de México, Distrito Federal",19.3654,-99.1405
-MEX,3580,Benito Juárez,"Ciudad de México, Distrito Federal",19.3611,-99.1409
-MEX,3590,Benito Juárez,"Ciudad de México, Distrito Federal",19.3584,-99.1417
-MEX,3600,Benito Juárez,"Ciudad de México, Distrito Federal",19.3818,-99.1544
-MEX,3610,Benito Juárez,"Ciudad de México, Distrito Federal",19.3823,-99.142
-MEX,3620,Benito Juárez,"Ciudad de México, Distrito Federal",19.3806,-99.1611
-MEX,3630,Benito Juárez,"Ciudad de México, Distrito Federal",19.3799,-99.1479
-MEX,3640,Benito Juárez,"Ciudad de México, Distrito Federal",19.3906,-99.1605
-MEX,3650,Benito Juárez,"Ciudad de México, Distrito Federal",19.3758,-99.1548
-MEX,3660,Benito Juárez,"Ciudad de México, Distrito Federal",19.375,-99.1451
-MEX,3700,Benito Juárez,"Ciudad de México, Distrito Federal",19.381,-99.1929
-MEX,3710,Benito Juárez,"Ciudad de México, Distrito Federal",19.3832,-99.1803
-MEX,3720,Benito Juárez,"Ciudad de México, Distrito Federal",19.3705,-99.1563
-MEX,3730,Benito Juárez,"Ciudad de México, Distrito Federal",19.3806,-99.1611
-MEX,3740,Benito Juárez,"Ciudad de México, Distrito Federal",19.3765,-99.1802
-MEX,3800,Benito Juárez,"Ciudad de México, Distrito Federal",19.3901,-99.1847
-MEX,3810,Benito Juárez,"Ciudad de México, Distrito Federal",19.3928,-99.1729
-MEX,3820,Benito Juárez,"Ciudad de México, Distrito Federal",19.3899,-99.1785
-MEX,3840,Benito Juárez,"Ciudad de México, Distrito Federal",19.3868,-99.1779
-MEX,3849,Benito Juárez,"Ciudad de México, Distrito Federal",19.3868,-99.1779
-MEX,3900,Benito Juárez,"Ciudad de México, Distrito Federal",19.3663,-99.1852
-MEX,3910,Benito Juárez,"Ciudad de México, Distrito Federal",19.373,-99.1888
-MEX,3920,Benito Juárez,"Ciudad de México, Distrito Federal",19.373,-99.1839
-MEX,3930,Benito Juárez,"Ciudad de México, Distrito Federal",19.3806,-99.1611
-MEX,3940,Benito Juárez,"Ciudad de México, Distrito Federal",19.3647,-99.1804
-MEX,6000,Cuauhtémoc,"Ciudad de México, Distrito Federal",19.4364,-99.1553
-MEX,6010,Cuauhtémoc,"Ciudad de México, Distrito Federal",19.4364,-99.1553
-MEX,6018,Cuauhtémoc,"Ciudad de México, Distrito Federal",19.4364,-99.1553
-MEX,6020,Cuauhtémoc,"Ciudad de México, Distrito Federal",19.4364,-99.1553
-MEX,6030,Cuauhtémoc,"Ciudad de México, Distrito Federal",19.4364,-99.1553
-MEX,6038,Cuauhtémoc,"Ciudad de México, Distrito Federal",19.4364,-99.1553
-MEX,6039,Cuauhtémoc,"Ciudad de México, Distrito Federal",19.4364,-99.1553
-MEX,6040,Cuauhtémoc,"Ciudad de México, Distrito Federal",19.4364,-99.1553
-MEX,6050,Cuauhtémoc,"Ciudad de México, Distrito Federal",19.4364,-99.1553
-MEX,6058,Cuauhtémoc,"Ciudad de México, Distrito Federal",19.4364,-99.1553
-MEX,6060,Cuauhtémoc,"Ciudad de México, Distrito Federal",19.4364,-99.1553
-MEX,6065,Cuauhtémoc,"Ciudad de México, Distrito Federal",19.4364,-99.1553
-MEX,6066,Cuauhtémoc,"Ciudad de México, Distrito Federal",19.4364,-99.1553
-MEX,6067,Cuauhtémoc,"Ciudad de México, Distrito Federal",19.4364,-99.1553
-MEX,6070,Cuauhtémoc,"Ciudad de México, Distrito Federal",19.4364,-99.1553
-MEX,6079,Cuauhtémoc,"Ciudad de México, Distrito Federal",19.4364,-99.1553
-MEX,6080,Cuauhtémoc,"Ciudad de México, Distrito Federal",19.4364,-99.1553
-MEX,6090,Cuauhtémoc,"Ciudad de México, Distrito Federal",19.4364,-99.1553
-MEX,6100,Cuauhtémoc,"Ciudad de México, Distrito Federal",19.4121,-99.1795
-MEX,6140,Cuauhtémoc,"Ciudad de México, Distrito Federal",19.4121,-99.1795
-MEX,6170,Cuauhtémoc,"Ciudad de México, Distrito Federal",19.4121,-99.1795
-MEX,6171,Cuauhtémoc,"Ciudad de México, Distrito Federal",19.4121,-99.1795
-MEX,6179,Cuauhtémoc,"Ciudad de México, Distrito Federal",19.4121,-99.1795
-MEX,6200,Cuauhtémoc,"Ciudad de México, Distrito Federal",19.447,-99.1256
-MEX,6220,Cuauhtémoc,"Ciudad de México, Distrito Federal",19.462,-99.1342
-MEX,6240,Cuauhtémoc,"Ciudad de México, Distrito Federal",19.4579,-99.1223
-MEX,6250,Cuauhtémoc,"Ciudad de México, Distrito Federal",19.4563,-99.1347
-MEX,6270,Cuauhtémoc,"Ciudad de México, Distrito Federal",19.4547,-99.1279
-MEX,6280,Cuauhtémoc,"Ciudad de México, Distrito Federal",19.4541,-99.1253
-MEX,6300,Cuauhtémoc,"Ciudad de México, Distrito Federal",19.4441,-99.1435
-MEX,6309,Cuauhtémoc,"Ciudad de México, Distrito Federal",19.4441,-99.1435
-MEX,6350,Cuauhtémoc,"Ciudad de México, Distrito Federal",19.4456,-99.1507
-MEX,6357,Cuauhtémoc,"Ciudad de México, Distrito Federal",19.4456,-99.1507
-MEX,6400,Cuauhtémoc,"Ciudad de México, Distrito Federal",19.4471,-99.1599
-MEX,6430,Cuauhtémoc,"Ciudad de México, Distrito Federal",19.4615,-99.1489
-MEX,6450,Cuauhtémoc,"Ciudad de México, Distrito Federal",19.4581,-99.1562
-MEX,6470,Cuauhtémoc,"Ciudad de México, Distrito Federal",19.4556,-99.155
-MEX,6479,Cuauhtémoc,"Ciudad de México, Distrito Federal",19.4556,-99.155
-MEX,6500,Cuauhtémoc,"Ciudad de México, Distrito Federal",19.4451,-99.1461
-MEX,6589,Cuauhtémoc,"Ciudad de México, Distrito Federal",19.4451,-99.1461
-MEX,6598,Cuauhtémoc,"Ciudad de México, Distrito Federal",19.4451,-99.1461
-MEX,6599,Cuauhtémoc,"Ciudad de México, Distrito Federal",19.4451,-99.1461
-MEX,6600,Cuauhtémoc,"Ciudad de México, Distrito Federal",19.4318,-99.1449
-MEX,6609,Cuauhtémoc,"Ciudad de México, Distrito Federal",19.4318,-99.1449
-MEX,6693,Cuauhtémoc,"Ciudad de México, Distrito Federal",19.4318,-99.1449
-MEX,6696,Cuauhtémoc,"Ciudad de México, Distrito Federal",19.4318,-99.1449
-MEX,6698,Cuauhtémoc,"Ciudad de México, Distrito Federal",19.4318,-99.1449
-MEX,6699,Cuauhtémoc,"Ciudad de México, Distrito Federal",19.4318,-99.1449
-MEX,6700,Cuauhtémoc,"Ciudad de México, Distrito Federal",19.4181,-99.1634
-MEX,6707,Cuauhtémoc,"Ciudad de México, Distrito Federal",19.4181,-99.1634
-MEX,6720,Cuauhtémoc,"Ciudad de México, Distrito Federal",19.4165,-99.1493
-MEX,6725,Cuauhtémoc,"Ciudad de México, Distrito Federal",19.4165,-99.1493
-MEX,6727,Cuauhtémoc,"Ciudad de México, Distrito Federal",19.4165,-99.1493
-MEX,6728,Cuauhtémoc,"Ciudad de México, Distrito Federal",19.4165,-99.1493
-MEX,6729,Cuauhtémoc,"Ciudad de México, Distrito Federal",19.4165,-99.1493
-MEX,6740,Cuauhtémoc,"Ciudad de México, Distrito Federal",19.4115,-99.1563
-MEX,6760,Cuauhtémoc,"Ciudad de México, Distrito Federal",19.4058,-99.1626
-MEX,6780,Cuauhtémoc,"Ciudad de México, Distrito Federal",19.4054,-99.1499
-MEX,6796,Cuauhtémoc,"Ciudad de México, Distrito Federal",19.4115,-99.1563
-MEX,6798,Cuauhtémoc,"Ciudad de México, Distrito Federal",19.4115,-99.1563
-MEX,6800,Cuauhtémoc,"Ciudad de México, Distrito Federal",19.4152,-99.1392
-MEX,6820,Cuauhtémoc,"Ciudad de México, Distrito Federal",19.4174,-99.1319
-MEX,6840,Cuauhtémoc,"Ciudad de México, Distrito Federal",19.4201,-99.1286
-MEX,6850,Cuauhtémoc,"Ciudad de México, Distrito Federal",19.4039,-99.1308
-MEX,6860,Cuauhtémoc,"Ciudad de México, Distrito Federal",19.41,-99.1332
-MEX,6870,Cuauhtémoc,"Ciudad de México, Distrito Federal",19.4117,-99.1301
-MEX,6880,Cuauhtémoc,"Ciudad de México, Distrito Federal",19.4053,-99.1408
-MEX,6890,Cuauhtémoc,"Ciudad de México, Distrito Federal",19.407,-99.1313
-MEX,6900,Cuauhtémoc,"Ciudad de México, Distrito Federal",19.4532,-99.1424
-MEX,6920,Cuauhtémoc,"Ciudad de México, Distrito Federal",19.459,-99.1431
-MEX,6995,Cuauhtémoc,"Ciudad de México, Distrito Federal",19.4561,-99.1427
+MEX,03000,Benito Juárez,"Ciudad de México, Distrito Federal",19.4026,-99.1547
+MEX,03010,Benito Juárez,"Ciudad de México, Distrito Federal",19.4029,-99.1477
+MEX,03020,Benito Juárez,"Ciudad de México, Distrito Federal",19.4004,-99.1448
+MEX,03023,Benito Juárez,"Ciudad de México, Distrito Federal",19.3925,-99.1495
+MEX,03028,Benito Juárez,"Ciudad de México, Distrito Federal",19.3806,-99.1611
+MEX,03100,Benito Juárez,"Ciudad de México, Distrito Federal",19.3831,-99.1743
+MEX,03103,Benito Juárez,"Ciudad de México, Distrito Federal",19.3654,-99.1446
+MEX,03104,Benito Juárez,"Ciudad de México, Distrito Federal",19.3806,-99.1611
+MEX,03109,Benito Juárez,"Ciudad de México, Distrito Federal",19.3654,-99.1446
+MEX,03199,Benito Juárez,"Ciudad de México, Distrito Federal",19.3654,-99.1446
+MEX,03200,Benito Juárez,"Ciudad de México, Distrito Federal",19.3833,-99.1667
+MEX,03220,Benito Juárez,"Ciudad de México, Distrito Federal",19.372,-99.1737
+MEX,03229,Benito Juárez,"Ciudad de México, Distrito Federal",19.372,-99.1737
+MEX,03230,Benito Juárez,"Ciudad de México, Distrito Federal",19.3685,-99.179
+MEX,03240,Benito Juárez,"Ciudad de México, Distrito Federal",19.3642,-99.1754
+MEX,03300,Benito Juárez,"Ciudad de México, Distrito Federal",19.3663,-99.1622
+MEX,03303,Benito Juárez,"Ciudad de México, Distrito Federal",19.3663,-99.1622
+MEX,03310,Benito Juárez,"Ciudad de México, Distrito Federal",19.3686,-99.1622
+MEX,03313,Benito Juárez,"Ciudad de México, Distrito Federal",19.3686,-99.1622
+MEX,03319,Benito Juárez,"Ciudad de México, Distrito Federal",19.3686,-99.1622
+MEX,03320,Benito Juárez,"Ciudad de México, Distrito Federal",19.3684,-99.1576
+MEX,03330,Benito Juárez,"Ciudad de México, Distrito Federal",19.362,-99.1668
+MEX,03340,Benito Juárez,"Ciudad de México, Distrito Federal",19.3663,-99.1622
+MEX,03400,Benito Juárez,"Ciudad de México, Distrito Federal",19.3975,-99.1422
+MEX,03410,Benito Juárez,"Ciudad de México, Distrito Federal",19.3905,-99.1415
+MEX,03420,Benito Juárez,"Ciudad de México, Distrito Federal",19.3897,-99.1449
+MEX,03430,Benito Juárez,"Ciudad de México, Distrito Federal",19.3876,-99.1409
+MEX,03440,Benito Juárez,"Ciudad de México, Distrito Federal",19.3913,-99.1424
+MEX,03500,Benito Juárez,"Ciudad de México, Distrito Federal",19.3812,-99.1368
+MEX,03510,Benito Juárez,"Ciudad de México, Distrito Federal",19.3948,-99.135
+MEX,03520,Benito Juárez,"Ciudad de México, Distrito Federal",19.3902,-99.1359
+MEX,03530,Benito Juárez,"Ciudad de México, Distrito Federal",19.3874,-99.1363
+MEX,03540,Benito Juárez,"Ciudad de México, Distrito Federal",19.3757,-99.1381
+MEX,03550,Benito Juárez,"Ciudad de México, Distrito Federal",19.3729,-99.1361
+MEX,03560,Benito Juárez,"Ciudad de México, Distrito Federal",19.3705,-99.1394
+MEX,03570,Benito Juárez,"Ciudad de México, Distrito Federal",19.3654,-99.1405
+MEX,03580,Benito Juárez,"Ciudad de México, Distrito Federal",19.3611,-99.1409
+MEX,03590,Benito Juárez,"Ciudad de México, Distrito Federal",19.3584,-99.1417
+MEX,03600,Benito Juárez,"Ciudad de México, Distrito Federal",19.3818,-99.1544
+MEX,03610,Benito Juárez,"Ciudad de México, Distrito Federal",19.3823,-99.142
+MEX,03620,Benito Juárez,"Ciudad de México, Distrito Federal",19.3806,-99.1611
+MEX,03630,Benito Juárez,"Ciudad de México, Distrito Federal",19.3799,-99.1479
+MEX,03640,Benito Juárez,"Ciudad de México, Distrito Federal",19.3906,-99.1605
+MEX,03650,Benito Juárez,"Ciudad de México, Distrito Federal",19.3758,-99.1548
+MEX,03660,Benito Juárez,"Ciudad de México, Distrito Federal",19.375,-99.1451
+MEX,03700,Benito Juárez,"Ciudad de México, Distrito Federal",19.381,-99.1929
+MEX,03710,Benito Juárez,"Ciudad de México, Distrito Federal",19.3832,-99.1803
+MEX,03720,Benito Juárez,"Ciudad de México, Distrito Federal",19.3705,-99.1563
+MEX,03730,Benito Juárez,"Ciudad de México, Distrito Federal",19.3806,-99.1611
+MEX,03740,Benito Juárez,"Ciudad de México, Distrito Federal",19.3765,-99.1802
+MEX,03800,Benito Juárez,"Ciudad de México, Distrito Federal",19.3901,-99.1847
+MEX,03810,Benito Juárez,"Ciudad de México, Distrito Federal",19.3928,-99.1729
+MEX,03820,Benito Juárez,"Ciudad de México, Distrito Federal",19.3899,-99.1785
+MEX,03840,Benito Juárez,"Ciudad de México, Distrito Federal",19.3868,-99.1779
+MEX,03849,Benito Juárez,"Ciudad de México, Distrito Federal",19.3868,-99.1779
+MEX,03900,Benito Juárez,"Ciudad de México, Distrito Federal",19.3663,-99.1852
+MEX,03910,Benito Juárez,"Ciudad de México, Distrito Federal",19.373,-99.1888
+MEX,03920,Benito Juárez,"Ciudad de México, Distrito Federal",19.373,-99.1839
+MEX,03930,Benito Juárez,"Ciudad de México, Distrito Federal",19.3806,-99.1611
+MEX,03940,Benito Juárez,"Ciudad de México, Distrito Federal",19.3647,-99.1804
+MEX,06000,Cuauhtémoc,"Ciudad de México, Distrito Federal",19.4364,-99.1553
+MEX,06010,Cuauhtémoc,"Ciudad de México, Distrito Federal",19.4364,-99.1553
+MEX,06018,Cuauhtémoc,"Ciudad de México, Distrito Federal",19.4364,-99.1553
+MEX,06020,Cuauhtémoc,"Ciudad de México, Distrito Federal",19.4364,-99.1553
+MEX,06030,Cuauhtémoc,"Ciudad de México, Distrito Federal",19.4364,-99.1553
+MEX,06038,Cuauhtémoc,"Ciudad de México, Distrito Federal",19.4364,-99.1553
+MEX,06039,Cuauhtémoc,"Ciudad de México, Distrito Federal",19.4364,-99.1553
+MEX,06040,Cuauhtémoc,"Ciudad de México, Distrito Federal",19.4364,-99.1553
+MEX,06050,Cuauhtémoc,"Ciudad de México, Distrito Federal",19.4364,-99.1553
+MEX,06058,Cuauhtémoc,"Ciudad de México, Distrito Federal",19.4364,-99.1553
+MEX,06060,Cuauhtémoc,"Ciudad de México, Distrito Federal",19.4364,-99.1553
+MEX,06065,Cuauhtémoc,"Ciudad de México, Distrito Federal",19.4364,-99.1553
+MEX,06066,Cuauhtémoc,"Ciudad de México, Distrito Federal",19.4364,-99.1553
+MEX,06067,Cuauhtémoc,"Ciudad de México, Distrito Federal",19.4364,-99.1553
+MEX,06070,Cuauhtémoc,"Ciudad de México, Distrito Federal",19.4364,-99.1553
+MEX,06079,Cuauhtémoc,"Ciudad de México, Distrito Federal",19.4364,-99.1553
+MEX,06080,Cuauhtémoc,"Ciudad de México, Distrito Federal",19.4364,-99.1553
+MEX,06090,Cuauhtémoc,"Ciudad de México, Distrito Federal",19.4364,-99.1553
+MEX,06100,Cuauhtémoc,"Ciudad de México, Distrito Federal",19.4121,-99.1795
+MEX,06140,Cuauhtémoc,"Ciudad de México, Distrito Federal",19.4121,-99.1795
+MEX,06170,Cuauhtémoc,"Ciudad de México, Distrito Federal",19.4121,-99.1795
+MEX,06171,Cuauhtémoc,"Ciudad de México, Distrito Federal",19.4121,-99.1795
+MEX,06179,Cuauhtémoc,"Ciudad de México, Distrito Federal",19.4121,-99.1795
+MEX,06200,Cuauhtémoc,"Ciudad de México, Distrito Federal",19.447,-99.1256
+MEX,06220,Cuauhtémoc,"Ciudad de México, Distrito Federal",19.462,-99.1342
+MEX,06240,Cuauhtémoc,"Ciudad de México, Distrito Federal",19.4579,-99.1223
+MEX,06250,Cuauhtémoc,"Ciudad de México, Distrito Federal",19.4563,-99.1347
+MEX,06270,Cuauhtémoc,"Ciudad de México, Distrito Federal",19.4547,-99.1279
+MEX,06280,Cuauhtémoc,"Ciudad de México, Distrito Federal",19.4541,-99.1253
+MEX,06300,Cuauhtémoc,"Ciudad de México, Distrito Federal",19.4441,-99.1435
+MEX,06309,Cuauhtémoc,"Ciudad de México, Distrito Federal",19.4441,-99.1435
+MEX,06350,Cuauhtémoc,"Ciudad de México, Distrito Federal",19.4456,-99.1507
+MEX,06357,Cuauhtémoc,"Ciudad de México, Distrito Federal",19.4456,-99.1507
+MEX,06400,Cuauhtémoc,"Ciudad de México, Distrito Federal",19.4471,-99.1599
+MEX,06430,Cuauhtémoc,"Ciudad de México, Distrito Federal",19.4615,-99.1489
+MEX,06450,Cuauhtémoc,"Ciudad de México, Distrito Federal",19.4581,-99.1562
+MEX,06470,Cuauhtémoc,"Ciudad de México, Distrito Federal",19.4556,-99.155
+MEX,06479,Cuauhtémoc,"Ciudad de México, Distrito Federal",19.4556,-99.155
+MEX,06500,Cuauhtémoc,"Ciudad de México, Distrito Federal",19.4451,-99.1461
+MEX,06589,Cuauhtémoc,"Ciudad de México, Distrito Federal",19.4451,-99.1461
+MEX,06598,Cuauhtémoc,"Ciudad de México, Distrito Federal",19.4451,-99.1461
+MEX,06599,Cuauhtémoc,"Ciudad de México, Distrito Federal",19.4451,-99.1461
+MEX,06600,Cuauhtémoc,"Ciudad de México, Distrito Federal",19.4318,-99.1449
+MEX,06609,Cuauhtémoc,"Ciudad de México, Distrito Federal",19.4318,-99.1449
+MEX,06693,Cuauhtémoc,"Ciudad de México, Distrito Federal",19.4318,-99.1449
+MEX,06696,Cuauhtémoc,"Ciudad de México, Distrito Federal",19.4318,-99.1449
+MEX,06698,Cuauhtémoc,"Ciudad de México, Distrito Federal",19.4318,-99.1449
+MEX,06699,Cuauhtémoc,"Ciudad de México, Distrito Federal",19.4318,-99.1449
+MEX,06700,Cuauhtémoc,"Ciudad de México, Distrito Federal",19.4181,-99.1634
+MEX,06707,Cuauhtémoc,"Ciudad de México, Distrito Federal",19.4181,-99.1634
+MEX,06720,Cuauhtémoc,"Ciudad de México, Distrito Federal",19.4165,-99.1493
+MEX,06725,Cuauhtémoc,"Ciudad de México, Distrito Federal",19.4165,-99.1493
+MEX,06727,Cuauhtémoc,"Ciudad de México, Distrito Federal",19.4165,-99.1493
+MEX,06728,Cuauhtémoc,"Ciudad de México, Distrito Federal",19.4165,-99.1493
+MEX,06729,Cuauhtémoc,"Ciudad de México, Distrito Federal",19.4165,-99.1493
+MEX,06740,Cuauhtémoc,"Ciudad de México, Distrito Federal",19.4115,-99.1563
+MEX,06760,Cuauhtémoc,"Ciudad de México, Distrito Federal",19.4058,-99.1626
+MEX,06780,Cuauhtémoc,"Ciudad de México, Distrito Federal",19.4054,-99.1499
+MEX,06796,Cuauhtémoc,"Ciudad de México, Distrito Federal",19.4115,-99.1563
+MEX,06798,Cuauhtémoc,"Ciudad de México, Distrito Federal",19.4115,-99.1563
+MEX,06800,Cuauhtémoc,"Ciudad de México, Distrito Federal",19.4152,-99.1392
+MEX,06820,Cuauhtémoc,"Ciudad de México, Distrito Federal",19.4174,-99.1319
+MEX,06840,Cuauhtémoc,"Ciudad de México, Distrito Federal",19.4201,-99.1286
+MEX,06850,Cuauhtémoc,"Ciudad de México, Distrito Federal",19.4039,-99.1308
+MEX,06860,Cuauhtémoc,"Ciudad de México, Distrito Federal",19.41,-99.1332
+MEX,06870,Cuauhtémoc,"Ciudad de México, Distrito Federal",19.4117,-99.1301
+MEX,06880,Cuauhtémoc,"Ciudad de México, Distrito Federal",19.4053,-99.1408
+MEX,06890,Cuauhtémoc,"Ciudad de México, Distrito Federal",19.407,-99.1313
+MEX,06900,Cuauhtémoc,"Ciudad de México, Distrito Federal",19.4532,-99.1424
+MEX,06920,Cuauhtémoc,"Ciudad de México, Distrito Federal",19.459,-99.1431
+MEX,06995,Cuauhtémoc,"Ciudad de México, Distrito Federal",19.4561,-99.1427
 MEX,11000,Miguel Hidalgo,"Ciudad de México, Distrito Federal",19.4234,-99.2033
 MEX,11040,Miguel Hidalgo,"Ciudad de México, Distrito Federal",19.4234,-99.2033
 MEX,11100,Miguel Hidalgo,"Ciudad de México, Distrito Federal",19.4121,-99.205
