@@ -28,10 +28,10 @@ Thanks for your help!
   - Airport codes: https://datahub.io/core/airport-codes
 
 ## FAQ
-- [In my country multiple cities can have the same postal code?](#in-my-country-multiple-cities-can-have-the-same-postal-code)
+- [In my country multiple cities can have the same postal code?](#in-my-country-multiple-cities-can-have-the-same-postal-code-what-do-i-do)
 - [When we group together multiple cities, which location should we keep?](#when-we-group-together-multiple-cities-which-location-should-we-keep)
 
-### In my country multiple cities can have the same postal code?
+### In my country multiple cities can have the same postal code. What do I do?
 
 Most of the time these cities are relatively small and are grouped together for convenience. Right now information at the postal code level is sufficient for the self-reporting process. Grouping should (if possible) occur to either the biggest or most important city in the region or to an appropriate name.
 
