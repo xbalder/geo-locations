@@ -7,3 +7,9 @@ The format of the file is this one > https://github.com/ch-covid-19/datasets/blo
 
 Thanks for your help!
 
+## Datasources
+- Some good sources can be found at: https://datahub.io/
+  - Country codes: https://datahub.io/core/country-list
+  - Language codes: https://datahub.io/core/language-codes
+  - Airport codes: https://datahub.io/core/airport-codes
+  
