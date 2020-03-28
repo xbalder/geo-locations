@@ -54,7 +54,7 @@ module.exports = function mergeRows(cities) {
     let res = findCenterCity(cities);
     res.country_code = cities[0].country_code;
     res.postal_code = cities[0].postal_code;
-    res.province = cities[0].province;
+    res.region = cities[0].region;
 
     return res;
 }
