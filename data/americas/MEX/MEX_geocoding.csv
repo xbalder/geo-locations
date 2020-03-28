@@ -1,4 +1,4 @@
-country_code,postal_code,town,state,latitude,longitude
+country_code,postal_code,town,region,latitude,longitude
 MEX,20010,Aguascalientes,Aguascalientes,21.9644,-102.3192
 MEX,20016,Aguascalientes,Aguascalientes,21.888,-102.3074
 MEX,20018,Aguascalientes,Aguascalientes,21.9644,-102.3192
