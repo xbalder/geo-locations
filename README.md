@@ -5,9 +5,9 @@ Repository to host geo locations files for other targeted countries
 
 ## Content overview
 
-1. Header description
-2. FAQ
-3. Links to sources
+1. [Header description](#header)
+2. [FAQ](#faq)
+3. [Links to sources](#datasources)
 4. Sources used for each country + parsing language
 
 ### Header:
@@ -22,7 +22,7 @@ region_id: string in descending order state, region, community, neighborhood/vil
 | country_code | postal_code | latitude | longitude | region_id |
 | ------------ | ----------- | -------------- | -------------- | -------- |
 | mex | 01460 | 19.376 | -99.1954 | Distrito Federal Ciudad de México::Álvaro Obregón::Alfonso XIII
-| mex | 01470 | 19.374 | -99.2011 | Distrito Federal Ciudad de México::Álvaro Obregón::Molino de Rosas||Alfalfar
+| mex | 01470 | 19.374 | -99.2011 | Distrito Federal Ciudad de México::Álvaro Obregón::Molino de Rosas\|\|Alfalfar
 
 ## FAQ
 - [In my country multiple cities can have the same postal code?](#in-my-country-multiple-cities-can-have-the-same-postal-code-what-do-i-do)
@@ -40,3 +40,11 @@ Location should be kept to the city selected for the location or can be set to t
   - Country codes: https://datahub.io/core/country-codes
   - Language codes: https://datahub.io/core/language-codes
   - Airport codes: https://datahub.io/core/airport-codes
+  
+## Source by country
+
+| Country | Source | language used for parsing |
+| --- | --- | ---|
+| Switzerland | [Official postal_codes in WGS84](https://www.cadastre.ch/en/services/service/registry/plz.html) | Python / Jupyter |
+| Mexico | [Geonames.org MX](http://download.geonames.org/export/zip/MX.zip) | Python / Jupyter |
+| India | [Geonames.org IN](http://download.geonames.org/export/zip/IN.zip) | Python / Jupyter |
