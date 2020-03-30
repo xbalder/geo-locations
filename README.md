@@ -11,11 +11,11 @@ Repository to host geo locations files for other targeted countries
 4. [Sources used for each country + parsing language](#source-by-country)
 
 ### Header:
-country_code: ISO 3166 Alpha-3 country code ([see country-codes_csv.csv or country-codes_json.json](data/general/country_codes/))
-postal_code: country specific postal_code
-latitude: latitude in WSG84
-latitude: longitude in WSG84
-region_id: string in descending order state, region, community, neighborhood/village, where the different levels are merged by '::' with the last level containing multiple options with the same postal_code separated by '||'
+- country_code: ISO 3166 Alpha-3 country code ([see country-codes_csv.csv or country-codes_json.json](data/general/country_codes/))
+- postal_code: country specific postal_code
+- latitude: latitude in WSG84
+- latitude: longitude in WSG84
+- region_id: string in descending order state, region, community, neighborhood/village, where the different levels are merged by '::' with the last level containing multiple options with the same postal_code separated by '||'
 
 #### example from Mexico
 
