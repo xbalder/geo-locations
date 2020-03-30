@@ -8,7 +8,7 @@ Repository to host geo locations files for other targeted countries
 1. [Header description](#header)
 2. [FAQ](#faq)
 3. [Links to sources](#datasources)
-4. Sources used for each country + parsing language
+4. [Sources used for each country + parsing language](#source-by-country)
 
 ### Header:
 country_code: ISO 3166 Alpha-3 country code ([see country-codes_csv.csv or country-codes_json.json](data/general/country_codes/))
